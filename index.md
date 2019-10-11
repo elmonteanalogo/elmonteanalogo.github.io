@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=yes">
 <meta name="description" content="Publicaciones, Comunicados y Trabajo curatorial">
 <meta name="author" content="Unknown" >
-<link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
+<link href="css/layout.css" rel="stylesheet" type="text/css" media="all">
 </head>
 
 <!--Aqui puedo cambiar los nombres de id y la class pero hay que cambiarlos tambien en la css stylesheet tambien 
@@ -130,7 +130,6 @@ y esto aplica para todo, tambien deberia cambiar el titulo por una imagen tipo b
 <script src="layout/scripts/jquery.backtotop.js"></script>
 <script src="layout/scripts/jquery.mobilemenu.js"></script>
 
-</body>
 </html>
 
 
