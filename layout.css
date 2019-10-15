@@ -54,7 +54,7 @@ li.dropdown {
 
 a {
     text-decoration: none;
-    color: #999999;}
+    color: #000000;}
     
 a:hover {
     text-decoration: underline;}
@@ -66,4 +66,4 @@ h1 {
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #333;}
+    color: #333333;}
