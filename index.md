@@ -1,12 +1,10 @@
-<!DOCYPE html>
-
 <html lang="es">
 <head>
 <title>El Monte Análogo</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=yes">
 <meta name="description" content="Publicaciones, Comunicados y Trabajo curatorial">
-<meta name="author" content="Unknown" >
+<meta name="author" content="Carlos Ramírez" >
 <link href="layout.css" rel="stylesheet" type="text/css" media="all">
 </head>
 
