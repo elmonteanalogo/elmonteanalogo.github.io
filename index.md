@@ -10,7 +10,6 @@
 
 <!--Aqui puedo cambiar los nombres de id y la class pero hay que cambiarlos tambien en la css stylesheet tambien 
 y esto aplica para todo, tambien deberia cambiar el titulo por una imagen tipo banner-->
-
 <div class="wrapper row1">
   <header id="header" class="hoc clear"> 
     <h1><a href="index.html">El Monte Análogo</a></h1>
