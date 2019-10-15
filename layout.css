@@ -1,10 +1,18 @@
-/* ------------ Rows ----------------------- */
+/* ----------------------------- Rows ----------------------- */
 .row1,
+.row2,
+.row3, 
+.row4,
+.row5,
 
-/* ----------- Rows ------------------------ */
+/* ---------------------------- Rows ------------------------ */
 .row1{color:#929292; background-color:#D81E1E;}
+.row2{color:#929292; background-color:#D81E1E;}
+.row3{color:#929292; background-color:#FFFFFF;}
+.row4{color:#CBCBCB; background-color:#32353C;}
+.row5{color:#CBCBCB; background-color:#4A4E57;}
 
-/* ------------ Cabecera -------------------*/
+/* --------------------------- Cabecera -------------------*/
 
 #header{padding:30px 0; text-align:center;}
 #header *{margin:0; padding:0; line-height:1;}
@@ -13,5 +21,4 @@
 
 p {
   color: red;
-  text-align: center;
-}
+  text-align: center;}
