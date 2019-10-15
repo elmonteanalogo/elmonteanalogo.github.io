@@ -1,20 +1,8 @@
-.item-a {
-  grid-area: header;}
-.item-b {
-  grid-area: main;}
-.item-c {
-  grid-area: sidebar;}
-.item-d {
-  grid-area: footer;}
+/* ------------ Rows ----------------------- */
+.row1,
 
-.container {
-  display: grid;
-  grid-template-columns: 50px 50px 50px 50px;
-  grid-template-rows: auto;
-  grid-template-areas: 
-    "header header header header"
-    "main main main sidebar"
-    "footer footer footer footer";}
+/* ----------- Rows ------------------------ */
+.row1{color:#929292; background-color:#FFFFFF;}
 
 /* ------------ Cabecera -------------------*/
 
