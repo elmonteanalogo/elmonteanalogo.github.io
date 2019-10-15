@@ -1,6 +1,24 @@
+.item-a {
+  grid-area: header;}
+.item-b {
+  grid-area: main;}
+.item-c {
+  grid-area: sidebar;}
+.item-d {
+  grid-area: footer;}
+
+.container {
+  display: grid;
+  grid-template-columns: 50px 50px 50px 50px;
+  grid-template-rows: auto;
+  grid-template-areas: 
+    "header header header header"
+    "main main main sidebar"
+    "footer footer footer footer";}
+
 /* ------------ Cabecera -------------------*/
 
-#header{padding:60px 0; text-align:center;}
+#header{padding:30px 0; text-align:center;}
 #header *{margin:0; padding:0; line-height:1;}
 #header h1{font-size:42px; letter-spacing:4px;}
 #header p{font-size:.9rem; text-transform:lowercase;}
