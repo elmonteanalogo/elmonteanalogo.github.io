@@ -319,8 +319,7 @@
    	left: 0.5em;
    	top: 23em;
   	 	z-index:1;
-  	 	position: -webkit-sticky;
-  	 	position: sticky;
+  	 	position: fixed;
   	 	overflow:auto;
   	}
   	
