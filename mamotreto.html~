@@ -53,7 +53,11 @@
 
 					<!-- Barra Lateral-->
 					
+<<<<<<< HEAD
 <div class="sidebar bar-block" style="width:16%"; float="left">
+=======
+<div class="sidebar bar-block" style="width:16%">
+>>>>>>> master
 <h2>Índice</h2>
 <ul>
 	<li><a href="mamotreto.html">A manera de introducción</a></li>
