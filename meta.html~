@@ -1,0 +1,127 @@
+<!DOCTYPE HTML>
+<html>
+
+	<head>
+		<title>Monte Análogo</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-panels.min.js"></script>
+		<script src="js/init.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel-noscript.css" />
+			<link rel="stylesheet" href="css/style.css" />
+		</noscript>
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
+	</head>
+	
+	<body>
+
+<!-- Header -->
+
+<div id="header">
+	<div class="container">
+			
+			<!-- Logo -->
+				<div id="logo">
+					<h1><a href="#">Monte Análogo</a></h1>
+					<span>Portal Personal de Carlos G.R.S.</span>
+				</div>
+				
+			<!-- Nav -->	
+				<nav id="nav">
+					<ul>
+						<li class="active"><a href="index.html">Inicio</a></li>
+                  <li><a href="twocolumn2.html">Actualidad</a></li>							
+						<li><a href="twocolumn1.html">Mamotreto</a></li>
+					  <!--<li><a href="onecolumn.html">Naomoredis</a></li>-->
+					</ul>
+				</nav>
+					
+	</div>
+</div>
+			
+	<!-- Main -->
+		<div id="main">
+			<div class="container">
+				<div class="row">
+
+					<!-- Content -->
+						<div id="content" class="12u skel-cell-important">
+							<section>
+								<header>
+									<h2>Sobre el origen y el futuro de esto</h2>
+									<h3>Actualidad</h3>
+								</header>
+<p>Originalmente había pensado en que quería un agregador y un filtro de noticias. He usado agregadores desde hace bastantes años, gracias al formato <a href="https://es.wikipedia.org/wiki/RSS">RSS</a>. Son programas de escritorio que monitorean las fuentes de noticias que se les solicitan y que bajan las noticias automáticamente de manera que unx no necesita volver a visitar nunca el portal de tal o cual agencia noticiosa sino que simplemente revisa los artículos descargados de manera similar a como aún se revisa el correo. Desafortunadamente durante la última década la mayoría de los portales noticiosos dejaron de publicar sus artículos completos con el formato RSS en un intento de incentivar el tráfico a sus portales y obtener ganancias de la venta de los datos de visitantes que no usan bloqueadores de anuncios y rastreadores.</p>
+
+<p>Actualmente, aunque una gran cantidad de portales ofrecen contenido por RSS, en realidad este se limita a titulares o pequeños resúmenes seguidos de un hipervínculo al portal para leer el artículo completo. Esto es funcional hasta cierto punto y tiene sus ventajas puesto que hay muchas noticias que no vale la pena leer mas allá del titular y muchos medios libres no limitan sus publicaciones por RSS, por lo que se genera un cierto tipo de filtro de calidad. Pero no es para nada un buen filtro o un filtro confiable. Por otro lado, no está de mas advertir que los lectores de RSS mas populares como Feedly o Flipboard en realidad son "servicios" de almacenamiento en nube que no tienen otra razón de ser que minar datos de sus usuarios y son básicamente malware. No hay necesidad de almacenamiento en nube cuando basta importar/exportar un archivo OPML entre dispositivos para tener las mismas listas en todos y basta un cache de unos cuantos cientos de megas en cada uno de ellos para almacenar datos.</p> 
+
+<p>El nuevo método preferido para la distribución y el consumo de noticias es a través del aprendizaje de máquinas y las redes neuronales que son algoritmos que optimizan automáticamente la tarea de una computadora, en este caso de las computadoras cuya tarea es elegir por nosotrxs las noticias que deberíamos leer. Vale la pena experimentar con estos algoritmos. Compara las noticias de un Google News con las de un Yandex Zen unas semanas, ve como responden los diferentes sistemas a tus "likes" y bloqueos de fuentes. Lo más notable de este nuevo método es que elimina por completo la posibilidad de añadir fuentes al sistema de manera manual. Puedes bloquear fuentes pero no puedes hacer que Google News te entregue artículos de HispanTV, es un nuevo paradigma de censura y un filtro invisible sobre el que no podemos tener ningún control.</p>
+
+<p>Personalmente yo utilizo <a href="https://lzone.de/liferea/">Liferea</a> que me parece que es el mejor agregador y lector de RSS en GNU/Linux pero no es multiplataforma. En Windows, que también <a href="https://www.gnu.org/proprietary/malware-microsoft.html">es malware</a> y deberías dejar de usar, una opción es <a href="https://quiterss.org/">QuiteRSS</a>. De todos modos tengo que visitar manualmente algunos portales que no tienen funcionalidad RSS. </p>
+
+<p>Pero como decía al comienzo, la cuestión del agregador es sencilla e incluso podríamos considerarla resuelta. Lo probleḿatico es el filtro. Definitivamente no es algo que se pueda automatizar, mas bien es un trabajo de tiempo completo y alta especialización. Se requiere de un censor con suficientes conocimientos generales cuando menos de historia y filosofía y con una sólida formación ideológica para poder separar el oro de la paja. </p>
+
+<p>Meses antes de crear este sitio intenté realizar ese trabajo consultando diaramente entre 30 y 40 fuentes de las que extraía entre 5 y 10 artículos diarios que consideraba contenían información relevante. En realidad no era tan difícil, una vez me adapté a un ritmo de trabajo podía hacer la selección en alrededor de hora y media. Pero al mismo tiempo me di cuenta de que esas listas de artículos además de engorrosas y poco estéticas eran formas ineficientes de acceder a la mencionada información relevante. También me di cuenta de que había un mayor valor agregado en la interpretación, contextualización y explicación de esos pocos artículos que en su mera selección. Entonces decidí que esa era una mejor idea, escribir una especie de columna sobre la actualidad, haciendo referencia a los artículos consultados. Funcionaría como un registro para mi mismo pero también podría serle útil a otras personas.</p>
+                          <header><h3>Mamotreto</h3></header>
+                          <p> Esto es mas sencillo, por ahora solo es un volúmen multipropósito en donde almacenaré todas las demás cosas que escriba 						
+							</section>
+						</div>
+					
+					<!-- <p><a href="#" class="image full"><img src="images/pics02.jpg" alt=""></a></p>-->
+						
+				</div>
+			
+			</div>
+		</div>
+	<!-- Main -->
+
+	<!-- Footer -->
+
+		<div id="footer">
+			<div class="container">
+				<div class="row">
+					<div class="3u">
+						<section>
+							<ul class="style1">
+								<li><img src="images/pics05.jpg" width="300" height="399" alt="">
+								</li>
+							</ul>
+						</section>
+					</div>
+
+					
+<!-- Acerca de -->				
+
+					<div class="6u">
+						<section>
+							<header>
+								<h2>Sobre mi</h2>
+							</header>
+							<p>Un ser humano en el camino a la Liberación, en búsqueda de la Verdad, ocupado en el Gran Trabajo, etcétera. Pero también un sujeto político inmerso en el proceso histórico, escritor de palabras y artífice de imagenes. Según unos papeles ridículos soy un filósofo. Busco a lxs otrxs para ponernos a hacer las cosas que hacen quienes ya lxs encontraron como formar un colectivo de arte o una célula revolucionaria.</p>
+						</section>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	<!-- Copyright -->
+	
+		<div id="copyright">
+			<div class="container">
+				Copyleft: Este portal está disponible bajo la licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 2.0)
+			</div>
+		</div>
+		
+<!-- Website based on the template "Monochromed" by TEMPLATED
+    templated.co @templatedco
+    Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+
+	</body>
+</html>
