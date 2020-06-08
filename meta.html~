@@ -7,6 +7,7 @@
 		<meta name="description" content="Portal Personal de Carlos G.R.S." />
 		<meta name="keywords" content="Filosofía, Historia, Estética, Comunismo, Magia, Revolución" />
 		<meta name="robots" content="index, follow" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 		<script src="js/skel.min.js"></script>
@@ -28,22 +29,22 @@
 <div id="header">
 	<div class="container">
 			
-			<!-- Logo -->
+<!-- Logo -->
 				<div id="logo">
 					<h1><a href="#">Monte Análogo</a></h1>
 					<span>Portal Personal de Carlos G.R.S.</span>
 				</div>
 				
-			<!-- Nav -->	
+<!-- Navegación -->	
 				<nav id="nav">
 					<ul>
 						<li class="active"><a href="index.html">Inicio</a></li>
-                  <li><a href="twocolumn2.html">Actualidad</a></li>							
-						<li><a href="twocolumn1.html">Mamotreto</a></li>
+                  <li><a href="url(images/overlay.png)">Actualidad</a></li>							
+						<li><a href="mamotreto.html">Mamotreto</a></li>
 					  <!--<li><a href="onecolumn.html">Naomoredis</a></li>-->
 					</ul>
 				</nav>
-					
+<!-- /Navegación -->	
 	</div>
 </div>
 			
