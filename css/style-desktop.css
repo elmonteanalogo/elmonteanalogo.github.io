@@ -162,14 +162,11 @@
 
 	#content
 	{
-		width: 100%
+		width: 100%;
+				padding: 3em 0em 2em 0em;
+		margin: 1em 1em 1em 1em;
 	}
 	
-	#contentmamo
-	{
-		width: 100%;
-		padding: 0 20% 0 0; 
-	}
 
 	#content header h2
 	{
@@ -186,7 +183,7 @@
 	
 	#sidebar
 	{
-		
+	
 	}
 	
 	#sidebar header h2

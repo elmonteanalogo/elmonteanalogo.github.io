@@ -1,12 +1,12 @@
 <!DOCTYPE HTML>
 <html>
-
 	<head>
 		<title>El Monte Análogo</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="Portal Personal de Carlos G.R.S." />
 		<meta name="keywords" content="Filosofía, Historia, Estética, Comunismo, Magia, Revolución" />
 		<meta name="robots" content="index, follow" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 		<script src="js/skel.min.js"></script>
@@ -21,19 +21,20 @@
 	</head>
 	
 	
-	<body class="homepage">	
+	<body>	
+		
 		
 <!-- Header -->
 
 <div id="header">
 	<div class="container">
 			
-			<!-- Logo -->
+<!-- Logo -->
 				<div id="logo">
 					<h1><a href="#">Mamotreto</a><br></h1>
 				</div>
-				
-			<!-- Navegación -->	
+<!-- /Logo -->				
+<!-- Navegación -->	
 				<nav id="nav">
 					<ul>
 						<li class="active"><a href="index.html">Inicio</a></li>
@@ -42,36 +43,37 @@
 					  <!--<li><a href="onecolumn.html">Naomoredis</a></li>-->
 					</ul>
 				</nav>
-					
+<!-- /Navegación -->	
 	</div>
 </div>
+<!-- /Header -->
+
+
 			
 <!-- Main -->
-		<div id="main">
-			<div class="container">
-				<div class="row">
+<div id="main">
+	<div class="container">
+		<div class="row">
 
-					<!-- Barra Lateral-->
-					
-<<<<<<< HEAD
-<div class="sidebar bar-block" style="width:16%"; float="left">
-=======
-<div class="sidebar bar-block" style="width:16%">
->>>>>>> master
-<h2>Índice</h2>
-<ul>
-	<li><a href="mamotreto.html">A manera de introducción</a></li>
-	<li><a href="#estructura">Sobre la estructura del Mamotreto</a></li>
-</ul>
-							</section>
-						</div>
+<!-- Barra Lateral-->
+<section>
+  <div class="sidebar";>
+    <h2>Índice</h2>
+      <ul>
+	      <li><a href="mamotreto.html">A manera de introducción</a></li>
+	      <li><a href="#estructura">Sobre la estructura del Mamotreto</a></li>
+      </ul>
+</section>
+	</div>
+	</div>
 					<!-- Barra Lateral -->
 				
 					<!-- Content -->
-						<div id="content" class="8u skel-cell-important">
-							<section>
+						<section id="contentmamo">
+						<div id="contentmamo" class="8u skel-cell-important" style="margin: 0em 0em 2em 15em;"> 
+
 								<header>
-									<h2>A manera de introducción</h2>
+									<h3>A manera de introducción</h3>
 								</header>
 							
 <p>He postergado por demasiado tiempo manifestar públicamente estas ideas. Digo postergado porque desde un principio tuve la intención de hacerlo <i>eventualmente</i>. Y cuando digo "en un principio" me refiero a cuando tenía yo unos dieciséis o diecisiete años; en ese entonces, como también antes y después, buscaba algo así como una comprensión cabal de la realidad, de mi lugar en el cosmos, de mis posibilidades de desarrollo como ser individual y de mis posibilidades de desarrollo como parte del ser colectivo o humanidad. Me interesaba por la vida y la muerte, la belleza y el arte, las culturas de los pueblos del mundo, el pasado y el futuro de la especie, mis deberes y responsabilidades más elementales en tanto que ser que existe, entre otras muchas otras cosas que no veo como no puedan ser de obvio interés para cualquier habitante del mundo con un mínimo de consciencia.</p>
@@ -90,7 +92,7 @@ El problema con el idioma inglés está precisamente en sus hablantes, que tiene
 <p>Tengo la intención de que este sea mi único texto filosófico publicado. No hay demasiado que decir y me puedo extender sin límite por lo que no hay razón para que no quepa todo aquí. ¡Para eso es el mamotreto! Continuaré escribiendo y desarrollando sus diferentes capítulos y subcapítulos y haciendo modificiaciones intermitentemente durante el resto de mi vida, otra gran ventaja que ofrece el formato de portal en la red frente a una publicación física en papel. En caso de censura simplemente cambiaré mi portal de servidor. No voy a difundir nada de esto, ahí es donde entras tu lector/a. Una vez te hayas convencido de que esto es para ti, compártelo con otras personas como tú. Puedes participar en esto a través de la crítica si lo deseas.</p>		
 
 		              	  <header>
-                           <h2 id="estructura">Sobre la estructura del mamotreto</h1>
+                           <h3 id="estructura">Sobre la estructura del mamotreto</h3>
 					        </header>
 
 <p>Antes de comenzar es necesario hacer varias aclaraciones dado que mi lectura de la realidad es extremadamente diferente de la "oficial" o "común". Desde mi punto de vista todas las actividades humanas se engloban en estas tres categorías: la <b>Filosofía</b>, la <b>Historia</b> y la <b>Magia</b>. También el mamotreto se dividirá en tres secciones análogas.</p>
@@ -131,11 +133,6 @@ Fuera de "occidente" el concepto de "arte" solo empezó a extenderse en los últ
 							</section>
 						</div>
 					<!-- /Content -->
-						
-				</div>
-			
-			</div>
-		</div>
 	<!-- Main -->
 
 <!-- Footer -->
