@@ -2,18 +2,19 @@
 <html>
 
 	<head>
-		<title>Monte Análogo</title>
+		<title>El Monte Análogo</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<meta name="description" content="" />
-		<meta name="keywords" content="" />
+		<meta name="description" content="Portal Personal de Carlos G.R.S." />
+		<meta name="keywords" content="Filosofía, Historia, Estética, Comunismo, Magia, Revolución" />
+		<meta name="robots" content="index, follow" />
 		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 		<script src="js/skel.min.js"></script>
 		<script src="js/skel-panels.min.js"></script>
 		<script src="js/init.js"></script>
 		<noscript>
-			<link rel="stylesheet" href="css/skel-noscript.css" />
-			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/skel-noscript.css">
+			<link rel="stylesheet" href="css/style.css">
 		</noscript>
 		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
 		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
@@ -29,16 +30,15 @@
 			
 			<!-- Logo -->
 				<div id="logo">
-					<h1><a href="#">Monte Análogo</a></h1>
-					<span>Portal Personal de Carlos G.R.S.</span>
+					<h1><a href="#">Mamotreto</a><br></h1>
 				</div>
 				
-			<!-- Nav -->	
+			<!-- Navegación -->	
 				<nav id="nav">
 					<ul>
 						<li class="active"><a href="index.html">Inicio</a></li>
                   <li><a href="twocolumn2.html">Actualidad</a></li>							
-						<li><a href="twocolumn1.html">Mamotreto</a></li>
+						<li><a href="mamotreto.html">Mamotreto</a></li>
 					  <!--<li><a href="onecolumn.html">Naomoredis</a></li>-->
 					</ul>
 				</nav>
@@ -46,40 +46,84 @@
 	</div>
 </div>
 			
-	<!-- Main -->
+<!-- Main -->
 		<div id="main">
 			<div class="container">
 				<div class="row">
 
-					<!-- Sidebar -->
-						<div id="sidebar" class="4u">
-							<section>
-								<header>
-									<h2>Gravida praesent</h2>
-									<span class="byline">Praesent lacus congue rutrum</span>
-								</header>
-								<p>Donec leo, vivamus fermentum nibh in augue praesent a lacus at urna congue rutrum. Maecenas luctus lectus at sapien. Consectetuer adipiscing elit.</p>
-								<ul class="default">
-									<li><a href="#">Pellentesque quis lectus gravida blandit.</a></li>
-									<li><a href="#">Lorem ipsum consectetuer adipiscing elit.</a></li>
-									<li><a href="#">Phasellus nec nibh pellentesque congue.</a></li>
-									<li><a href="#">Cras aliquam risus pellentesque pharetra.</a></li>
-									<li><a href="#">Duis non metus commodo euismod lobortis.</a></li>
-									<li><a href="#">Lorem ipsum dolor adipiscing elit.</a></li>
-								</ul>
+					<!-- Barra Lateral-->
+					
+<div class="sidebar bar-block" style="width:16%">
+<h2>Índice</h2>
+<ul>
+	<li><a href="mamotreto.html">A manera de introducción</a></li>
+	<li><a href="#estructura">Sobre la estructura del Mamotreto</a></li>
+</ul>
 							</section>
 						</div>
-					<!-- Sidebar -->
+					<!-- Barra Lateral -->
 				
 					<!-- Content -->
 						<div id="content" class="8u skel-cell-important">
 							<section>
 								<header>
-									<h2>Left Sidebar</h2>
-									<span class="byline">Donec leo, vivamus fermentum nibh in augue praesent</span>
+									<h2>A manera de introducción</h2>
 								</header>
-								<p><a href="#" class="image full"><img src="images/pics02.jpg" alt=""></a></p>
-								<p>Maecenas pede nisl, elementum eu, ornare ac, malesuada at, erat. Proin gravida orci porttitor enim accumsan lacinia. Donec condimentum, urna non molestie semper, ligula enim ornare nibh, quis laoreet eros quam eget ante. Aliquam libero. Vivamus nisl nibh, iaculis vitae, viverra sit amet, ullamcorper vitae, turpis. Aliquam erat volutpat. Vestibulum dui sem, pulvinar sed, imperdiet nec, iaculis nec, leo. Fusce odio. Etiam arcu dui, faucibus eget, placerat vel, sodales eget, orci. Donec ornare neque ac sem. Mauris aliquet. Aliquam sem leo, vulputate sed, convallis at, ultricies quis, justo. Donec nonummy magna quis risus. Quisque eleifend. Phasellus tempor vehicula justo.</p>
+							
+<p>He postergado por demasiado tiempo manifestar públicamente estas ideas. Digo postergado porque desde un principio tuve la intención de hacerlo <i>eventualmente</i>. Y cuando digo "en un principio" me refiero a cuando tenía yo unos dieciséis o diecisiete años; en ese entonces, como también antes y después, buscaba algo así como una comprensión cabal de la realidad, de mi lugar en el cosmos, de mis posibilidades de desarrollo como ser individual y de mis posibilidades de desarrollo como parte del ser colectivo o humanidad. Me interesaba por la vida y la muerte, la belleza y el arte, las culturas de los pueblos del mundo, el pasado y el futuro de la especie, mis deberes y responsabilidades más elementales en tanto que ser que existe, entre otras muchas otras cosas que no veo como no puedan ser de obvio interés para cualquier habitante del mundo con un mínimo de consciencia.</p>
+
+<p>Toda pregunta tiene algunas respuestas correctas y una enorme cantidad de respuestas incorrectas. El peligro de equivocarse es alto y las consecuencias de equivocarse pueden ser verdaderamente catastróficas en un sentido existencial, especialmente cuando se trata de este tipo de preguntas. Es la consciencia de ese peligro y algo de empatía lo que me motiva a escribir todo esto, este mamotreto es básicamente un catálogo de respuestas correctas. He estado investigando desde que tengo memoria y ahora tengo una buena colección de ideas, herramientas, modelos y prácticas útiles para seguir investigando. He tenido acceso a abundante información, el discernimiento suficiente como para hacer una selección apropiada y las influencias indispensables para dirigir mi atención en la dirección correcta. Es un camino en el que apenas he comenzado a andar, pero he llegado a un punto desde el que me puedo dar una buena idea de la distancia que me falta por recorrer y de la distancia que me separa de quien aún no comienza a andar. Mi comprensión de la condición humana no es tal como para poder ofrecer algo útil a cualquier persona; esto que lees y cualquier otra creación mía está dirigida en primer lugar a personas semejantes a mí, en busca de las mismas cosas, a quienes espero pueda ser de utilidad. Yo no encontré algo como esto cuando lo necesitaba y lo busqué, y cumplo un compromiso conmigo mismo al crearlo.</p>
+
+<p>Crecí en los 90s y 00s a la par de la expansión global de internet. A pesar de que fui un gran lector de niño, la red pronto se convirtió en mi principal fuente de información. Por eso, cuando en mi adolescencia intensifiqué mi búsqueda, pensé algo así como: "Bueno, no soy de la primera generación de usuarios de internet, seguramente algún noble nerd de refinados gustos ya ha creado un sitio en la red en donde comparte básicamente todo lo que piensa que son las respuestas correctas sobre todas las cosas y yo podría cuando menos partir de su selección". No sería justo decir que no encontré cosas así, encontré personas y comunidades interesantes que en algunos casos se acercaban bastante a lo que quería encontrar. Pero no encontré nada lo suficientemente satisfactorio. Lo que es peor, me parece que hay <i>menos</i> información ahora o cuando menos que hay mucha más basura y resulta entonces más difícil encontrar lo valioso. La mayoría de los portales y recursos útiles que están a la mano hoy ya estaban a la mano hace unos quince años. El Internet Sacred Text Archive, por mencionar un ejemplo, existe desde el 99 aunque obviamente el archivo se ha ampliado con los años. El portal nonduality.com, por mencionar otro ejemplo, existe desde el 97. Adam McLean, un hermetista escocés, mantiene alchemywebsite.com desde el 95. Por otro lado algunos portales que recuerdo con cierto cariño ya no existen, como Gnostic Liberation Front. En los portales que acabo de mencionar estan las respuestas a muchas preguntas pero navegarlos sin una idea mas o menos clara de lo que quieres encontrar es bastante complicado. Quiero decir que hay que buscar las preguntas correctas antes que las respuestas correctas. Quiero decir que hay que pensar primero.</p>
+
+<p>Hay que tener en cuenta que la mayoría de la información que es relativamente fácil de conseguir está en idioma inglés y que las traducciones al inglés de muchas cosas producidas en los últimos trescientos años tienden a ser más y mejores que las traducciones a otros idiomas, si es que las hay. Yo mismo he pasado años enteros sin leer ningún texto en español y no precisamente por gusto. Pero a mi juicio toda la información realmente valiosa está ya actualmente disponible en español y, como hispanohablante, no deberías perder tu tiempo aprendiendo inglés a menos que pienses dedicarte a algo que exige interacción constante con hablantes de ese idioma o acceso anticipado a las últimas publicaciones sobre algún tema cuya literatura esté mayoritariamente en inglés. Aprende mejor idiomas como sánscrito, chino, árabe o ruso.<br>
+El problema con el idioma inglés está precisamente en sus hablantes, que tienen generalmente una cosmovisión extremadamente pobre y errada de la que no pueden desprenderse al momento de escribir o traducir cualquier cosa. Es de lo más frecuente encontrarnos en la red con blogs relativamente interesantes cuya mayor limitante es que el autor o autora vive en los suburbios de "Estados Unidos" y, por lo tanto y como es de esperarse, es una persona completamente trastornada. Además esta angloesfera digital es la fuente original de todo tipo de aberraciones como el terraplanismo, los movimientos antivacunas y los retos virales. Una de las medidas mas sencillas que puedes tomar para proteger tu salud mental y alejarte de todo tipo de manipulaciones y <i>fake news</i> es no interactuar con la angloesfera. Este es uno de los primeros consejos que le puedo ofrecer a cualquier hispanohablante y otra de las razones de ser de este portal. Aquí compartiré yo mismo recursos de calidad en español siempre que sea posible y en caso de encontrarme cosas especialmente interesantes en inglés que no hayan sido traducidas al español las traduciré yo mismo.</p>
+
+<p>Encontraremos las preguntas y respuestas que buscamos en escuelas, tradiciones literarias, textos y personas que se puede decir "pertenecen a" o "están enmarcados en" conjuntos mas o menos coherentes de ideas que generalmente reciben nombres que acaban en "ismo". Esto es ineludible dado que siempre y respecto a cualquier cosa quienes tienen una postura crearán un "ismo" y quienes tienen otra postura crearán otro, cubriendo eventualmente todas las posturas posibles o cuando menos todas las obvias. Hoy a unos tres mil años de la invención independiente de sistemas de escritura en todos los continentes hay un gran catálogo de "ismos" bien conocidos y es muy raro que alguien invente uno nuevo. Cualquiera que sea tu postura con respecto a cualquier cosa lo más probable es que esa sea la postura de un "ismo" y de que tu seas, por lo tanto, un "-ista" de ese "ismo".</p>
+
+<p>Puedo resumir todo el contenido de este mamotreto en general invocando diez "ismos": Monismo. Materialismo. Animismo. Panspermismo. Panteísmo. Politeísmo. Comunismo. Hermetismo. Taoísmo. Tantrismo. *Es más, estos serán los títulos de los capítulos de mi mamotreto.* Para un cierto tipo de persona, sin familiaridad con estos "ismos", este es el momento de memorizar el nombre del portal y del autor y cerrar la pestaña del navegador para ir a leer sobre estas cosas. Lo más probable es que te sea más provechosa la lectura del mamotreto si tienes alguna familiaridad previa con estos temas; aunque procuraré ser exhaustivo aquí, este texto no es la mejor opción para quien no ha pensado <i>un rato</i> sobre estas cuestiones. Para otro tipo de persona es el momento de cerrar la pestaña y procurar olvidar el nombre del portal y del autor, ya ha visto suficiente y no hay nada aquí para esa persona, le conmino a ir a ver si ya puso la marrana.</p>
+
+<p>Tengo la intención de que este sea mi único texto filosófico publicado. No hay demasiado que decir y me puedo extender sin límite por lo que no hay razón para que no quepa todo aquí. ¡Para eso es el mamotreto! Continuaré escribiendo y desarrollando sus diferentes capítulos y subcapítulos y haciendo modificiaciones intermitentemente durante el resto de mi vida, otra gran ventaja que ofrece el formato de portal en la red frente a una publicación física en papel. En caso de censura simplemente cambiaré mi portal de servidor. No voy a difundir nada de esto, ahí es donde entras tu lector/a. Una vez te hayas convencido de que esto es para ti, compártelo con otras personas como tú. Puedes participar en esto a través de la crítica si lo deseas.</p>		
+
+		              	  <header>
+                           <h2 id="estructura">Sobre la estructura del mamotreto</h1>
+					        </header>
+
+<p>Antes de comenzar es necesario hacer varias aclaraciones dado que mi lectura de la realidad es extremadamente diferente de la "oficial" o "común". Desde mi punto de vista todas las actividades humanas se engloban en estas tres categorías: la <b>Filosofía</b>, la <b>Historia</b> y la <b>Magia</b>. También el mamotreto se dividirá en tres secciones análogas.</p>
+
+<p>La <b>Historia</b>, que es el proceso de recopilar información a partir de la realidad material que nos rodea, es nuestra principal fuente de conocimientos. La historia de la naturaleza, del Cosmos y de sus leyes fundamentales recibe el nombre de Historia Natural mientras que la historia de la actividad humana, el registro de nuestra especie en el mundo desde sus orígenes hasta el presente, recibe el nombre de Historia Social y es parte de la Historia Natural. Quienes se dedican al estudio de fenómenos específicos deben tener siempre presente la temporalidad -y contingencia- de todas las tendencias y todas las constantes. Los principios más elementales de ramas de la Historia Natural como la Física o la Química se basan en observaciones de un mundo inmerso en un proceso permanente de cambio, en donde hay una Historia que puede ser descrita por las mentes humanas, como resultado de eventos y circunstancias que han acontecido a partir de los primeros instantes de manifestación del espacio-tiempo del Universo en el que nos encontramos. La Historia de la Vida o Biología se articula en torno al análisis de las evidencias de los cambios en pos de la adaptación al entorno de las especies en el tiempo y por lo tanto hay una mayor consciencia de la historicidad y del carácter temporal de los objetos de estudio de esta antes que de otras ramas de la Historia Natural, pero toda la Historia es la historia del cambio. </p>
+
+<p>La ciencia es un método particularmente eficaz de recopilar información que se basa principalmente en la experimentación. Los resultados de la experimentación científica pasan a formar parte de la Historia. Pero no hay distintas ciencias, la ciencia es un <i>método</i>; hablar de "ciencias" es evidentemente ridículo, si no entiendes el porque después de pensarlo por cinco minutos ve a leer sobre el "problema de la demarcación".</p>
+
+<p>Es difícil para los seres humanos no hacer ciencia. Quiero cruzar el mar. Hago una balsa con un tipo de madera y se hunde, hago una con otro tipo de madera y flota, pruebo un tercer tipo de madera y flota mejor. Amarro los maderos con un tipo de fibra y solo resiste algunas horas. Pruebo otro tipo de fibra y resiste varios días. Si recuerdo estas cosas, si las cuento a otras personas o mejor aún si escribo o dibujo de algún modo esta información, habré inaugurado la ciencia en mi tribu. El método científico se conoce desde hace más de tres mil años; un proceso de examinación, diagnóstico, tratamiento y evaluación está ya presente en los primeros papiros egipcios sobre Medicina. La idea general de probar diferentes cosas y anotar que pasa o de cambiar tal o cual variable en algún proceso y anotar que cambia era una práctica común en las antiguas ciudades de Mesopotamia, India y China, no solo entre las sociedades de sabios, sino entre la sociedad en general pues tiene aplicaciones prácticas en todas las esferas de la actividad humana desde la agricultura hasta la música. Debería ser obvio que el método científico no solo sirve para generar información propia de la Historia Natural sino para generar información de cualquier tipo y para cualquier propósito.</p>
+
+<p>Quizás el mayor divulgador e inspirador de la ciencia antes de la "modernidad" fue un tal Aristóteles, un filósofo que pasó a la historia porque no le dio flojera anotar sus pensamientos y tener ordenadas la notas que usaba para dar clases y discursos, todo un hito tanto en aquel entonces como hoy en día. Sin embargo no fue sino hasta mil años después de Aristóteles, hacia el 700 e.c., que sus apuntes se popularizaron entre los sabios árabes y que estos empezaron a elaborar teorías e instrumentos con base en el método científico. Y no sería sino mil años después, hacia el 1700 e.c., que los parásitos capitalistas de Europa comenzaron a incorporar el método científico al ciclo de reproducción del capital, incrementando la producción en todas sus ramas a partir de innovaciones técnicas resultado de la experimentación científica.</p>
+
+<p>La sección del mamotreto dedicada a la Historia Natural será un compendio actualizado de las teorías científicas más correctas y las crónicas de como han cambiado estas teorías; la sección dedicada a la Historia Social será una crónica resumida de los principales acontecimientos que han tenido lugar en las sociedades humanas enfocándome sobre todo en el pasado cercano, en los dos últimos siglos.</p>
+
+<p>La <b>Filosofía</b> es la reflexión racional sobre todas las cosas, incluyendo la Historia, el método científico y la Magia. La Filosofía es una actividad intrínseca del ser humano y solo ella nos puede dar razones para hacer cualquier cosa. Es difícil no filosofar, hasta el hombre más imbécil hace de vez en cuando el movimiento intelectual que consiste en intentar entender el porqué de algo y se plantea a si mismo razones, por rudimentarias que sean, para hacer o no hacer cosas. La reflexión racional es la característica más distintiva y mas particular del ser humano, es la razón de ser del concepto mismo "humano". Quien actúa motivado por algo distinto que la reflexión racional es otro tipo de animal, distinto al humano. <br>
+La Filosofía es lo que nos hace humanos pero tiene además un propósito concreto: descubrir o crear la Verdad, el criterio a partir del cual juzgaremos todas las cosas, el fundamento teórico de nuestro comportamiento, la base de nuestras ideas y creencias. La Filosofía es la fuente de las preguntas que responde la ciencia y que pasan a formar parte de la Historia, la guía de nuestra actividad política en la sociedad, la formadora de los deseos que motivan nuestro quehacer mágico, la estructura de nuestros placeres, metas y sueños.</p>
+
+<p>Las niñas y niños tienen una atracción natural por la Filosofía y frecuentemente, cuando viven en un entorno que favorece su desarrollo intelectual y creatividad, llegan a formular por sí mismxs ideas y sentencias cuya supuesta "autoría" se atribuye a tal o cual filósofx que registra la Historia. Hay pues buenas razones para ser bastante escépticxs con respecto a quien dijo que cuando en lo que respecta al pensamiento filosófico. No obstante como actividad social la Filosofía produce escuelas filosóficas y estas escuelas pueden tener profundos impactos en las sociedades que las acogen. Existen una gran cantidad de escuelas cada una de las cuales entiende la Verdad de algún modo y propone una manera de vivir acorde con esta Verdad.</p>
+
+<p>La mayoría de las escuelas filosóficas que existen en la actualidad se originaron o descienden de escuelas que se originaron hace alrededor de 2400 años, en un periodo de alrededor de siglo y medio especialmente fértil para la Filosofía a nivel mundial. Vivieron entonces muchos los principales maestros de la humanidad como Pitágoras, Anaxímenes, Heráclito, el Buda Gautama, Confucio, Anaxágoras, Mozi, Parménides, Mahavira, Sócrates, Góshala, Platón, Diógenes de Sinope, Mencio, Ajita Kesakambali, Aristóteles, Epicuro, Purana Kassapa y quizás Laozi. El ser humano seguramente filosofa desde la antigüedad más remota, acaso desde una época previa a la invención del lenguaje, desde el advenimiento de los primeros seres humanos anatómicamente modernos o incluso antes. También es posible que seres con otras formas humanas o semihumanas como Neanderthales, Denisovanos y Erectus tardíos hayan filosofado. Los vestigios del pensamiento filosófico de ese mundo arcaico se encuentran sobre todo en la mitología de los pueblos del mundo, en los antiguos poemas épicos y incluso en algunos textos como los Vedas.</p>
+
+<p>La mayoría de las escuelas filosóficas que se han dado a lo largo de la historia desaparecieron sin dejar sino leves huellas en la Historia. Otras tuvieron impactos mas que trascendentales y las ideas que produjeron continúan siendo hasta ahora la columna vertebral de civilizaciones enteras. Hubo pleitos y en ocasiones guerras motivadas por diferencias filosóficas aunque generalmente no sólo por esta causa. Sin embargo, en la mayor parte del mundo las personas aprendieron a convivir en comunidades multiétnicas y multiculturales con muchas escuelas filosóficas con ideas contradictorias y a veces abiertamente enfrentadas; esto especialmente en India, China y el sudeste asiático.</p>
+
+<p>La sección del mamotreto dedicada a la Filosofía será un compendio de respuestas correctas a preguntas de interés filosófico, argumentadas racionalmente. Además de crítica, comentarios, contexto, etcétera.</p>
+
+<p>La <b>Magia</b> en su aspecto más general consiste en alterar la realidad de acuerdo con una voluntad. Más específicamente la Magia consiste a alterar un nivel de la realidad indirectamente a partir de cambios recíprocos en un nivel superior de la realidad. La Magia no es una actividad intrínseca de todo ser humano pero si está presente en todo grupo humano. Si bien generalmente una persona o grupo de personas ejerce la función social de mago oficial o autoridad sobre Magia, en las sociedades que no se han desviado demasiado de las tradiciones del paleolítico (incluyendo la mayoría de las sociedades hasta hace unos tres mil años) todas las personas suelen recurrir a ella tanto individual como colectivamente. Podemos afirmar que existió anterior e independientemente del ser humano y encontramos evidencias de esto en cuevas con pinturas Neanderthales. Todo esto es digno de resaltar porque inventar la Magia me parece más difícil de inventar que la Filosofía, la Historia o la ciencia y sin embargo la Magia se inventó antes.</p>
+
+<p>Cazo un pato, ahora naturalmente me asaltan dos consideraciones: quiero encontrar más patos y quiero estar bien con el Gran Pato. Podría crear un baile y drama sobre la patita que cruza el río o internarme en una caverna sagrada e invocar a Gran Pato con polvo de ocre sobre las rocas o pintarme en el cuerpo motivos inspirados en el vuelo de los patos con carbón o comer algunos hongos y observar a través de las dimensiones en donde estará un gran grupo de patos en nuestros alrededores la semana que viene. Pero ninguna de estas cosas es especialmente obvia sino para un tipo más bien poco común de persona que sin embargo debió estar ahí desde el principio, guiando a los demás.<br>
+La Magia, aunque no deja de ser efectiva para un individuo en la soledad, es más poderosa en la medida en que involucra una participación tendiente a la totalidad en los colectivos sociales. Las sociedades son macrocosmos inmortales con respecto a los microcosmos mortales que son los individuos y tienen deseos y necesidades cíclicas ajustadas a los ciclos planetarios. Cada cierto tiempo la sociedad tiene necesidad de Magia enfocada en alguna cuestión y la repetición de esta Magia da lugar a ritos y ceremonias. Estos son los métodos y fórmulas de la Magia cuya efectividad se considera ya probada y que las sociedades entienden cómo cosas que "todos deberíamos hacer" cada cierto tiempo "de ahora en adelante".</p>
+
+<p>El "arte" es un concepto "occidental" relativamente moderno y absolutamente estúpido que apareció hace unos seiscientos años durante el llamado "renacimiento europeo". Se basa vagamente en el concepto griego de <i>techné</i> que se refiere al saber hacer alguna cosa. La mayoría si no es que todas las cosas que hacemos los seres humanos se pueden hacer mejor o peor y la diferencia recae en ese saber hacer, en la técnica de unos y otros. Desde el susodicho renacimiento las técnicas que producen "arte" se distinguen de las que no producen "arte" de manera arbitraria y basada en el capricho de los peores seres humanos de esas sociedades o en el mejor de los casos de su capacidad de interpretar a los pensadores griegos y romanos que pretendieron tomar como instructores. En realidad si le ayudamos a pensar un poco a los enanos intelectuales que inventaron este concepto, todo lo que hace el ser humano es "arte" -incluso otros seres humanos- lo que nos hace a todos a la vez "artistas" y "obras de arte" y a todo lo que hacemos todo el tiempo "arte". Y este es un pensamiento bastante inútil, vacío e intrascendente.<br>
+Fuera de "occidente" el concepto de "arte" solo empezó a extenderse en los últimos trescientos años, aún conserva un aire de novedad y continúa extendiendose sobre todo en África y Asia. "Occidente" sigue concibiendo al "arte" como un pilar de la cultura humana con la salvedad de que gran parte del "arte" que produce actualmente es "anti-arte" mercantilizado. El mundo socialista se aferró a la idea de desarrollar un "arte" apropiado para la revolución y la sociedad socialista, rechazando y censurando el "anti-arte" occidental y promoviendo el realismo socialista en su lugar en un primer momento pero más tarde aceptando el "anti-arte" mercantilizado y vendido como arte. Ahora se pueden encontrar ridículos "museos de arte contemporáneo" en Cuba y China. Sin embargo la forma de "arte" más extendida que se ha producido hasta ahora en el socialismo es el *agitprop* que por su contacto directo y permanente con los pueblos se diferencia del "arte" que consiste en la acumulación de articulos de lujo y se acerca al rito y la ceremonia de la Magia de todos los tiempos. Por mucho que se resistan a aceptarlo, quienes trabajan en departamentos de agitación y propaganda de los partidos comunistas o en los ministerios de cultura de los países socialistas se dedican a la Magia pura y dura.</p>
+
+<p>El uso de la Magia ha sido y continua siendo ubicuo aunque la gente "occidental" y "moderna" ha perdido la capacidad de percibirla o de entenderla como Magia; se trata de la gente que ha internalizado "occidente" y la "modernidad", que no solo ha crecido en un ambiente de familiaridad con estos conceptos sino que además se los ha creído y piensa que describen la realidad. En algunos casos estas personas perciben la Magia como "arte", en otros no la perciben ni entienden an absoluto. Pero independientemente de la percepción subjetiva de tal o cual todos vivimos inmersos en el campo de batalla de lo simbólico y nos vemos afectados por las operaciones mágicas que ahí tienen lugar.</p>
+
+<p>Algunos ejemplos obvios de Magia en la actualidad global: los días de la semana, cualquier espectáculo de medio tiempo del Superbowl en "Estados Unidos", la costumbre entre lxs mochilerxs de intercambiar pulseritas, los pines del Partido del Trabajo de Corea, el mudra que acabo de hacer con mi mano izquierda, los tapetes con la bandera <i>gringa</i> en la entrada de las casas en Irán, fumar DMT, cualquier "video musical" de cualquier "artista pop" del "top 10" de cualquier país de "occidente", el edificio de la Corte Suprema de Israel, las estampas conocidas como "detentes" que carga el presidente de México en su cartera, sobar falos con aceites en los templos de Shiva, el dólar, escupir cuando unx tiene una impresión desagradable.</p>
+
 							</section>
 						</div>
 					<!-- /Content -->
@@ -90,73 +134,41 @@
 		</div>
 	<!-- Main -->
 
-	<!-- Footer -->
+<!-- Footer -->
+
 		<div id="footer">
 			<div class="container">
 				<div class="row">
 					<div class="3u">
 						<section>
 							<ul class="style1">
-								<li><img src="images/pics05.jpg" width="78" height="78" alt="">
-									<p>Nullam non wisi a sem eleifend. Donec mattis libero eget urna. </p>
-									<p class="posted">August 11, 2014  |  (10 )  Comments</p>
-								</li>
-								<li><img src="images/pics06.jpg" width="78" height="78" alt="">
-									<p>Nullam non wisi a sem eleifend. Donec mattis libero eget urna. </p>
-									<p class="posted">August 11, 2014  |  (10 )  Comments</p>
-								</li>
-								<li><img src="images/pics07.jpg" width="78" height="78" alt="">
-									<p>Nullam non wisi a sem eleifend. Donec mattis libero eget urna. </p>
-									<p class="posted">August 11, 2014  |  (10 )  Comments</p>
+								<li><img src="images/pics05.jpg" width="300" height="399" alt="">
 								</li>
 							</ul>
 						</section>
 					</div>
-					<div class="3u">
-						<section>
-							<ul class="style1">
-								<li class="first"><img src="images/pics08.jpg" width="78" height="78" alt="">
-									<p>Nullam non wisi a sem eleifend. Donec mattis libero eget urna. </p>
-									<p class="posted">August 11, 2014  |  (10 )  Comments</p>
-								</li>
-								<li><img src="images/pics09.jpg" width="78" height="78" alt="">
-									<p>Nullam non wisi a sem eleifend. Donec mattis libero eget urna. </p>
-									<p class="posted">August 11, 2014  |  (10 )  Comments</p>
-								</li>
-								<li><img src="images/pics10.jpg" width="78" height="78" alt="">
-									<p>Nullam non wisi a sem eleifend. Donec mattis libero eget urna. </p>
-									<p class="posted">August 11, 2014  |  (10 )  Comments</p>
-								</li>
-							</ul>
-						</section>				
-					</div>
+
+		
+<!-- Acerca de -->				
+
 					<div class="6u">
 						<section>
 							<header>
-								<h2>Aenean elementum</h2>
+								<h2>Sobre mi</h2>
 							</header>
-							<p>In posuere eleifend odio. Quisque semper augue mattis wisi. Maecenas ligula. Pellentesque viverra vulputate enim. Aliquam erat volutpat. Pellentesque tristique ante ut risus. Quisque dictum. Integer nisl risus, sagittis convallis, rutrum id, elementum congue, nibh. Suspendisse dictum porta lectus.</p>
-							<ul class="default">
-								<li><a href="#">Pellentesque quis lectus gravida blandit.</a></li>
-								<li><a href="#">Lorem ipsum consectetuer adipiscing elit.</a></li>
-								<li><a href="#">Phasellus nec nibh pellentesque congue.</a></li>
-								<li><a href="#">Cras aliquam risus pellentesque pharetra.</a></li>
-								<li><a href="#">Duis non metus commodo euismod lobortis.</a></li>
-								<li><a href="#">Lorem ipsum dolor adipiscing elit.</a></li>
-							</ul>
+							<p>Un ser humano en el camino a la Liberación, en búsqueda de la Verdad, ocupado en el Gran Trabajo, etcétera. Pero también un sujeto político inmerso en el proceso histórico, escritor de palabras y artífice de imagenes. Según unos papeles ridículos soy un filósofo. Busco a lxs otrxs para ponernos a hacer las cosas que hacen quienes ya lxs encontraron como formar un "colectivo de arte" o una célula revolucionaria.</p>
 						</section>
 					</div>
 				</div>
 			</div>
 		</div>
-	<!-- Footer -->
 
-	<!-- Copyright -->
+<!-- Licencias -->
+	
 		<div id="copyright">
 			<div class="container">
-				Design: <a href="http://templated.co">TEMPLATED</a> Images: <a href="http://unsplash.com">Unsplash</a> (<a href="http://unsplash.com/cc0">CC0</a>)
+				Copyleft: Este portal está disponible bajo la licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)
 			</div>
 		</div>
-
 	</body>
 </html>
