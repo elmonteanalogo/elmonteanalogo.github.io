@@ -1,6 +1,5 @@
 <!DOCTYPE HTML>
 <html>
-
 	<head>
 		<title>El Monte Análogo</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
@@ -21,7 +20,6 @@
 		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
 	</head>
 	
-	
 	<body>
 
 <!-- Header -->
@@ -39,7 +37,7 @@
 				<nav id="nav">
 					<ul>
 						<li class="active"><a href="index.html">Inicio</a></li>
-                  <li><a href="url(images/overlay.png)">Actualidad</a></li>							
+                  <li><a href="images/enconstruccion.gif">Actualidad</a></li>							
 						<li><a href="mamotreto.html">Mamotreto</a></li>
 					  <!--<li><a href="onecolumn.html">Naomoredis</a></li>-->
 					</ul>
@@ -71,15 +69,14 @@ Actualmente yo utilizo <a href="https://lzone.de/liferea/">Liferea</a> que me pa
 
 <p>Entonces decidí que esa era una mejor idea, escribir una especie de columna sobre la actualidad, haciendo referencia a los artículos consultados. Este es el resultado.</p>
 
-                          <header><h3>Mamotreto</h3></header>
-                          <p> Esto es mas sencillo, por ahora solo es un volúmen multipropósito en donde almacenaré todas las demás cosas que escriba 						
+                          <header>
+                            <h3>Mamotreto</h3>
+                          </header>
+                         
+ <p> Esto es mas sencillo, es un único volúmen multipropósito en donde publicaré todas mis ideas sobre todo filosóficas.</p>
 							</section>
 						</div>
-					
-					<!-- <p><a href="#" class="image full"><img src="images/pics02.jpg" alt=""></a></p>-->
-						
 				</div>
-			
 			</div>
 		</div>
 	<!-- Main -->
