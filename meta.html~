@@ -59,9 +59,9 @@
 									<h3>Actualidad</h3>
 								</header>
 
-<p>Originalmente había pensado en que quería un agregador y un filtro de noticias.<br>
-La cuestión del agregador es sencilla. He usado agregadores desde hace bastantes años, gracias al formato <a href="https://es.wikipedia.org/wiki/RSS">RSS</a>. Son programas de escritorio que monitorean las fuentes de noticias que se les solicitan y que bajan las noticias automáticamente de manera que unx no necesita volver a visitar el portal de tal o cual agencia noticiosa sino que simplemente revisa los artículos descargados de manera similar a como aún se revisa el correo.<br>
-Actualmente yo utilizo <a href="https://lzone.de/liferea/">Liferea</a> que me parece que es el mejor agregador y lector de RSS en GNU/Linux pero no es multiplataforma. En Windows, que por cierto <a href="https://www.gnu.org/proprietary/malware-microsoft.html">es malware</a> y deberías dejar de usar, una opción es <a href="https://quiterss.org/">QuiteRSS</a>.</p>
+<p>Originalmente había pensado en que quería un agregador y un filtro de noticias. La cuestión del agregador es sencilla. He usado agregadores desde hace bastantes años, gracias al formato <a href="https://es.wikipedia.org/wiki/RSS">RSS</a>. Son programas de escritorio que monitorean las fuentes de noticias que se les solicitan y que bajan las noticias automáticamente de manera que unx no necesita volver a visitar el portal de tal o cual agencia noticiosa sino que simplemente revisa los artículos descargados de manera similar a como aún se revisa el correo.</p>
+
+<p>Actualmente yo utilizo <a href="https://lzone.de/liferea/">Liferea</a> que me parece que es el mejor agregador y lector de RSS en GNU/Linux pero no es multiplataforma. En Windows, que por cierto <a href="https://www.gnu.org/proprietary/malware-microsoft.html">es malware</a> y deberías dejar de usar, una opción es <a href="https://quiterss.org/">QuiteRSS</a>.</p>
 
 <p>Lo probleḿatico es el filtro. Definitivamente no es algo que se pueda automatizar, mas bien es un trabajo de tiempo completo y alta especialización. Se requiere de un censor con suficientes conocimientos generales cuando menos de historia y filosofía y con una sólida formación ideológica para poder separar el oro de la paja.</p>
 
