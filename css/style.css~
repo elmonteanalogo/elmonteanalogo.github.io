@@ -317,6 +317,13 @@
    	padding: 1em 1em 80em 1em;
    	left: 0.5em;
    	margin-top: 10em;
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+   	margin-bottom: 100px;
+>>>>>>> master
+>>>>>>> master
   	 	z-index:1;
   	 	position: absolute;
   	 	overflow: auto;
@@ -389,12 +396,23 @@
 	
 	#copyright
 	{
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> master
 		position: relative;
 		display: block;
 		padding: 3em 0em;
 		margin: 0 auto;
+<<<<<<< HEAD
 		position: absolute;
 		padding: 3em 0em;
+=======
+=======
+		position: absolute;
+		padding: 3em 0em;
+>>>>>>> master
+>>>>>>> master
 		text-align: center;
 		color: rgba(255,255,255,.2);
 		z-index: 3;
