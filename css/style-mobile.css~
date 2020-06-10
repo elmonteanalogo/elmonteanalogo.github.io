@@ -276,7 +276,7 @@
   #contenido
   {
   	   position: relative;
-  	   width: 80%;
+  	   width: 90%;
   	   top: 10em;
   	   left: -4em;
   }
