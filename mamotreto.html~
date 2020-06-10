@@ -1,29 +1,28 @@
 <!DOCTYPE HTML>
 <html>
-	<head>
-		<title>El Monte Análogo</title>
-		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<meta name="description" content="Portal Personal de Carlos G.R.S." />
-		<meta name="keywords" content="Filosofía, Historia, Estética, Comunismo, Magia, Revolución" />
-		<meta name="robots" content="index, follow" />
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
-        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-		<script src="js/skel.min.js"></script>
-		<script src="js/skel-panels.min.js"></script>
-		<script src="js/init.js"></script>
-		<noscript>
-			<link rel="stylesheet" href="css/skel-noscript.css">
-			<link rel="stylesheet" href="css/style.css">
-		</noscript>
-		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
-		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
-	</head>
+ <head>
+   <title>El Monte Análogo</title>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="description" content="Portal Personal de Carlos G.R.S." />
+	<meta name="keywords" content="Filosofía, Historia, Estética, Comunismo, Magia, Revolución" />
+	<meta name="robots" content="index, follow" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
+     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	<script src="js/skel.min.js"></script>
+	<script src="js/skel-panels.min.js"></script>
+	<script src="js/init.js"></script>
+	<noscript>
+	  <link rel="stylesheet" href="css/skel-noscript.css">
+	  <link rel="stylesheet" href="css/style.css">
+	</noscript>
+	<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+	<!--[if lte IE 9]><link rel="stylesheet" href="css/ie/v9.css" /><![endif]-->
+ </head>
 	
-	<body>	
+<body>	
 		
 <!-- Header -->
-
 <div id="header">
 	<div class="container">
 			
@@ -31,8 +30,9 @@
 				<div id="logo">
 					<h1><a href="#">Mamotreto</a><br></h1>
 				</div>
-<!-- /Logo -->				
-<!-- Navegación -->	
+<!-- /Logo -->	
+			
+<!-- Navegación -->					
 				<nav id="nav">
 					<ul>
 						<li class="active"><a href="index.html">Inicio</a></li>
@@ -42,6 +42,7 @@
 					</ul>
 				</nav>
 <!-- /Navegación -->	
+
 	</div>
 </div>
 <!-- /Header -->
@@ -75,9 +76,8 @@
 		
 				
 <!-- Content -->
-						<section id="contentmamo">
-						<div id="contentmamo" class="8u skel-cell-important" style="margin: 0em 0em 2em 15em;"> 
-
+                  <section id="contenido"> 
+						<div id="contenido" class="8u skel-cell-important" style="margin: 0em 0em 2em 10em;"> 
 								<header>
 									<h2>A manera de introducción</h2>
 								</header>
@@ -88,7 +88,7 @@
 
 <p>Crecí en los 90s y 00s a la par de la expansión global de internet. A pesar de que fui un gran lector de niño, la red pronto se convirtió en mi principal fuente de información. Por eso, cuando en mi adolescencia intensifiqué mi búsqueda, pensé algo así como: "Bueno, no soy de la primera generación de usuarios de internet, seguramente algún noble nerd de refinados gustos ya ha creado un sitio en la red en donde comparte básicamente todo lo que piensa que son las respuestas correctas sobre todas las cosas y yo podría cuando menos partir de su selección". No sería justo decir que no encontré cosas así, encontré personas y comunidades interesantes que en algunos casos se acercaban bastante a lo que quería encontrar. Pero no encontré nada lo suficientemente satisfactorio. Lo que es peor, me parece que hay <i>menos</i> información ahora o cuando menos que hay mucha más basura y resulta entonces más difícil encontrar lo valioso. La mayoría de los portales y recursos útiles que están a la mano hoy ya estaban a la mano hace unos quince años. El Internet Sacred Text Archive, por mencionar un ejemplo, existe desde el 99 aunque obviamente el archivo se ha ampliado con los años. El portal nonduality.com, por mencionar otro ejemplo, existe desde el 97. Adam McLean, un hermetista escocés, mantiene alchemywebsite.com desde el 95. Por otro lado algunos portales que recuerdo con cierto cariño ya no existen, como Gnostic Liberation Front. En los portales que acabo de mencionar estan las respuestas a muchas preguntas pero navegarlos sin una idea mas o menos clara de lo que quieres encontrar es bastante complicado. Quiero decir que hay que buscar las preguntas correctas antes que las respuestas correctas. Quiero decir que hay que pensar primero.</p>
 
-<p>Hay que tener en cuenta que la mayoría de la información que es relativamente fácil de conseguir está en idioma inglés y que las traducciones al inglés de muchas cosas producidas en los últimos trescientos años tienden a ser más y mejores que las traducciones a otros idiomas, si es que las hay. Yo mismo he pasado años enteros sin leer ningún texto en español y no precisamente por gusto. Pero a mi juicio toda la información realmente valiosa está ya actualmente disponible en español y, como hispanohablante, no deberías perder tu tiempo aprendiendo inglés a menos que pienses dedicarte a algo que exige interacción constante con hablantes de ese idioma o acceso anticipado a las últimas publicaciones sobre algún tema cuya literatura esté mayoritariamente en inglés. Aprende mejor idiomas como sánscrito, chino, árabe o ruso.<br>
+<p>Hay que tener en cuenta que la mayoría de la información que es relativamente fácil de conseguir está en idioma inglés y que las traducciones al inglés de muchas cosas producidas en los últimos trescientos años tienden a ser más y mejores que las traducciones a otros idiomas, si es que las hay. Yo mismo he pasado años enteros sin leer ningún texto en español y no precisamente por gusto. Pero a mi juicio toda la información realmente valiosa está ya actualmente disponible en español y, como hispanohablante, no deberías perder tu tiempo aprendiendo inglés a menos que pienses dedicarte a algo que exige interacción constante con hablantes de ese idioma o acceso anticipado a las últimas publicaciones sobre algún tema cuya literatura esté mayoritariamente en inglés. De todas maneras aprenderás bastante inglés simplemente interactuando con una vida cultural e intelectual plenamente colonizada por esa lengua. Yo aprendí más inglés de videojuegos que de clases. Pero si vas a tomar clases de un idioma aprende mejor idiomas como sánscrito, chino, árabe o ruso.<br>
 El problema con el idioma inglés está precisamente en sus hablantes, que tienen generalmente una cosmovisión extremadamente pobre y errada de la que no pueden desprenderse al momento de escribir o traducir cualquier cosa. Es de lo más frecuente encontrarnos en la red con blogs relativamente interesantes cuya mayor limitante es que el autor o autora vive en los suburbios de "Estados Unidos" y, por lo tanto y como es de esperarse, es una persona completamente trastornada. Además esta angloesfera digital es la fuente original de todo tipo de aberraciones como el terraplanismo, los movimientos antivacunas y los retos virales. Una de las medidas mas sencillas que puedes tomar para proteger tu salud mental y alejarte de todo tipo de manipulaciones y <i>fake news</i> es no interactuar con la angloesfera. Este es uno de los primeros consejos que le puedo ofrecer a cualquier hispanohablante y otra de las razones de ser de este portal. Aquí compartiré yo mismo recursos de calidad en español siempre que sea posible y en caso de encontrarme cosas especialmente interesantes en inglés que no hayan sido traducidas al español las traduciré yo mismo.</p>
 
 <p>Encontraremos las preguntas y respuestas que buscamos en escuelas, tradiciones literarias, textos y personas que se puede decir "pertenecen a" o "están enmarcados en" conjuntos mas o menos coherentes de ideas que generalmente reciben nombres que acaban en "ismo". Esto es ineludible dado que siempre y respecto a cualquier cosa quienes tienen una postura crearán un "ismo" y quienes tienen otra postura crearán otro, cubriendo eventualmente todas las posturas posibles o cuando menos todas las obvias. Hoy a unos tres mil años de la invención independiente de sistemas de escritura en todos los continentes hay un gran catálogo de "ismos" bien conocidos y es muy raro que alguien invente uno nuevo. Cualquiera que sea tu postura con respecto a cualquier cosa lo más probable es que esa sea la postura de un "ismo" y de que tu seas, por lo tanto, un "-ista" de ese "ismo".</p>
@@ -124,11 +124,8 @@ La Filosofía es lo que nos hace humanos pero tiene además un propósito concre
 
 <p>La sección del mamotreto dedicada a la Filosofía será un compendio de respuestas correctas a preguntas de interés filosófico, argumentadas racionalmente. Además de crítica, comentarios, contexto, etcétera.</p>
 
-<<<<<<< HEAD
-<p>La <b>Magia</b> en su aspecto más general consiste en alterar la realidad de acuerdo con una voluntad. Más específicamente la Magia consiste en alterar un nivel de la realidad indirectamente a partir de cambios recíprocos en un nivel superior de la realidad. En la práctica se trata se generar cambios en la realidad material a partir de cambios en la psique de las personas. La Magia no es una actividad intrínseca de todo ser humano pero si está presente en todo grupo humano. Si bien generalmente una persona o grupo de personas ejerce la función social de mago oficial o autoridad sobre Magia, en las sociedades que no se han desviado demasiado de las tradiciones del paleolítico (incluyendo la mayoría de las sociedades hasta hace unos tres mil años) todas las personas suelen recurrir a ella tanto individual como colectivamente. Podemos afirmar que existió anterior e independientemente del ser humano y encontramos evidencias de esto en cuevas con <a href="https://www.nature.com/articles/d41586-018-02357-8">pinturas Neanderthales</a>. Todo esto es digno de resaltar porque inventar la Magia me parece más difícil de inventar que la Filosofía, la Historia o la ciencia y sin embargo la Magia se inventó antes.</p>
-=======
+
 <p>La <b>Magia</b> en su aspecto más general consiste en alterar la realidad de acuerdo con una voluntad. Más específicamente la Magia consiste en alterar un nivel de la realidad indirectamente a partir de cambios recíprocos en un nivel superior de la realidad. En la práctica se trata se generar cambios en la realidad material a partir de cambios en la psique de las personas. La Magia no es una actividad intrínseca de todo ser humano pero si está presente en todo grupo humano. Si bien generalmente una persona o grupo de personas ejerce la función social de mago oficial o autoridad sobre Magia, en las sociedades que no se han desviado demasiado de las tradiciones del paleolítico (incluyendo la mayoría de las sociedades hasta hace unos tres mil años) todas las personas suelen recurrir a ella tanto individual como colectivamente. Podemos afirmar que existió anterior e independientemente del ser humano y encontramos evidencias de esto en cuevas con pinturas Neanderthales. Todo esto es digno de resaltar porque inventar la Magia me parece más difícil de inventar que la Filosofía, la Historia o la ciencia y sin embargo la Magia se inventó antes.</p>
->>>>>>> master
 
 <p>Cazo un pato, ahora naturalmente me asaltan dos consideraciones: quiero encontrar más patos y quiero estar bien con el Gran Pato. Podría crear un baile y drama sobre la patita que cruza el río o internarme en una caverna sagrada e invocar a Gran Pato con polvo de ocre sobre las rocas o pintarme en el cuerpo motivos inspirados en el vuelo de los patos con carbón o comer algunos hongos y observar a través de las dimensiones en donde estará un gran grupo de patos en nuestros alrededores la semana que viene. Pero ninguna de estas cosas es especialmente obvia sino para un tipo más bien poco común de persona que sin embargo debió estar ahí desde el principio, guiando a los demás.<br>
 La Magia, aunque no deja de ser efectiva para un individuo en la soledad, es más poderosa en la medida en que involucra una participación tendiente a la totalidad en los colectivos sociales. Las sociedades son macrocosmos inmortales con respecto a los microcosmos mortales que son los individuos y tienen deseos y necesidades cíclicas ajustadas a los ciclos planetarios. Cada cierto tiempo la sociedad tiene necesidad de Magia enfocada en alguna cuestión y la repetición de esta Magia da lugar a ritos y ceremonias. Estos son los métodos y fórmulas de la Magia cuya efectividad se considera ya probada y que las sociedades entienden cómo cosas que "todos deberíamos hacer" cada cierto tiempo "de ahora en adelante".</p>
@@ -166,7 +163,7 @@ Sin embargo siempre hubo un desacuerdo entre los racistas anglosajones y los rac
 
 <p>Con el fin de la guerra en Europa llegó también el fin del proyecto civilizatorio del nazismo. "Occidente" estaba en ruinas, la URSS se alzaba triunfante, mientras que en China la guerra continuaba y el partido comunista chino se acercaba también a la victoria. "Estados Unidos" tenía una oportunidad única de imponer en Europa un nuevo proyecto civilizatorio y debía hacerlo si quería detener el avance de las ideas revolucionarias. Pero ya no podría recurrir a su estilo cultural característico, el racismo. Y sin el racismo no tenía más que algunas nociones de liberalismo clásico y un fetichismo por la república e imperio romanos. "Estados Unidos" se dió cuenta de esta situación y puso a trabajar a sus universidades y <i>think tanks</i>, a sus intelectuales, a sus agencias de inteligencia y espionaje, a todos los recursos con los que contaba como estado con el propósito de encontrar algo que pudiera servir como base ideológica de su proyecto de convertirse en la potencia hegemónica global. Es en este contexto que deben entenderse proyectos como <a href="https://www.bibliotecapleyades.net/sociopolitica/sociopol_mindconMKULTRA.htm">MKUltra/Monarch</a> o <a href="https://www.bibliotecapleyades.net/montauk/esp_montauk.htm">Montauk</a> y la operación <a href="https://www.voltairenet.org/article123315.html">Paperclip</a>.</p>
 
-<p>No sé si fuera o no el objetivo del "estado profundo" <i>gringo</i> y sus agencias de inteligencia, pero después de los 60s y las guerras de Corea y Vietnam, la psique "estadounidense" se volcó al nihilismo. Yo pienso que pudo haber sido un desarrollo mas bien orgánico y me puedo imaginar a los detentadores del poder pudo con ansiedad y alarma al notar la propagación inicial del nihilismo en las universidades y el mundo del arte. Pero en cualquier caso la ansiedad y alarma se disiparon cuando el nihilismo demostró funcionar de maravilla para fomentar tanto el desinterés por el activismo en contra de las guerras como el consumo de comida, artículos y experiencias basura. El "estado profundo" y las agencias de inteligencia pronto convirtieron este nihilismo en una poderosa arma para la guerra espiritual y psíquica, en una eficiente herramienta de control social y en la base del estilo cultural que conocemos ahora como "consumerismo".<br>
+<p>No sé si fuera o no el objetivo del "estado profundo" <i>gringo</i> y sus agencias de inteligencia, pero después de los 60s y las guerras de Corea y Vietnam, la psique "estadounidense" se volcó al nihilismo. Yo pienso que pudo haber sido un desarrollo mas bien orgánico y me puedo imaginar a los detentadores del poder con ansiedad y alarma al notar la propagación inicial del nihilismo en las universidades y el mundo del arte. Pero en cualquier caso la ansiedad y alarma se disiparon cuando el nihilismo demostró funcionar de maravilla para fomentar tanto el desinterés por el activismo en contra de las guerras como el consumo de comida, artículos y experiencias basura. El "estado profundo" y las agencias de inteligencia pronto convirtieron este nihilismo en una poderosa arma para la guerra espiritual y psíquica, en una eficiente herramienta de control social y en la base del estilo cultural que conocemos ahora como "consumerismo".<br>
 Esta es la situación que prevalece hasta nuestros días. A través de su maquinaria de magia llamada Hollywood y de su industria musical, "Estados Unidos" impuso el nihilismo a base de una estrategia de sobresaturación de los canales culturales de "occidente", primero sobre sus aliados y vasallos y después sobre el mundo. Esta estrategia se empieza a agotar, pero la difusión de esta cultura de "nihilismo occidental" y "consumerismo" aún es mucho mayor que la difusión de cualquier otra cultura a nivel global.</p>
 
 <p>El nihilismo se ha convertido hoy en el arma principal del imperialismo a nivel espiritual, intelectual, cultural y psíquico. Los pueblos libres del mundo se defienden con sus propias armas: el cristianismo ortodoxo, el islam, el marxismo-leninismo y sus derivados como el socialismo con características chinas y la idea juche.</p>
@@ -187,7 +184,7 @@ Esta es la situación que prevalece hasta nuestros días. A través de su maquin
 		<div id="footer">
 			<div class="container">
 				<div class="row">
-					<div class="3u">
+					<div class="5u">
 						<section>
 							<ul class="style1">
 								<li><img src="images/pics05.jpg" width="300" height="399" alt="">
@@ -195,8 +192,7 @@ Esta es la situación que prevalece hasta nuestros días. A través de su maquin
 							</ul>
 						</section>
 					</div>
-
-		
+					
 <!-- Acerca de -->				
 
 					<div class="6u">
@@ -212,11 +208,15 @@ Esta es la situación que prevalece hasta nuestros días. A través de su maquin
 		</div>
 
 <!-- Licencias -->
-	
-		<div id="copyright">
-			<div class="container">
-				Copyleft: Este portal está disponible bajo la licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)
-			</div>
-		</div>
+
+<div id="copyright">
+  <div class="container">
+Copyleft: Este portal está disponible bajo la licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)
+  </div>
+</div>
+		
+<!-- This website was built based on the template "Monochromed" by TEMPLATED. templated.co | @templatedco
+     Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
 	</body>
 </html>

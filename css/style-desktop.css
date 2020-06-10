@@ -1,11 +1,5 @@
-/*
-	Monochromed by TEMPLATED
-    templated.co @templatedco
-    Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
-*/
-
 /*********************************************************************************/
-/* Basic                                                                         */
+/* Basico                                                                         */
 /*********************************************************************************/
 
 	body
@@ -25,8 +19,16 @@
 	
 		header h2
 		{
-			font-size: 3em;
+			font-size: 2em;
+			padding-bottom: 0.6em;
+			padding-top: 0.6em;
 		}
+		
+		header h3
+		{
+			font-size: 1.5em;
+		}
+
 
 		header .byline
 		{
@@ -178,7 +180,7 @@
 	{
 		letter-spacing: -1px;
 		font-size: 3em;
-		padding: 1.5em 0em 0em 0em;
+		padding: 1em 0em 0em 0em;
 	}
 	
 	#sidebar
@@ -204,4 +206,8 @@
 		{
 			font-size: 1.7em;
 		}
-	
+
+/**********************************************************************************************************/
+/*   This website was built based on the template "Monochromed" by TEMPLATED. templated.co | @templatedco */
+/*   Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)          */
+/**********************************************************************************************************/
