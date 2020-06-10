@@ -304,17 +304,13 @@
 	#footer
 	{
 		padding: 0em 0em 0em 0em;
+		 display: block;
+  margin-left: auto;
+  margin-right: auto;
 	}
 
 	#footer h2
 		{
 			font-size: 1em;
-		}
-		
-	.footer img
-		{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
 		}
 		
