@@ -297,7 +297,7 @@
 
 	#main
 	{
-		position: relative;;
+		position: relative;
 		background: #fff url(images/overlay.png) repeat;
 		text-align: justify;
 	}
@@ -308,21 +308,22 @@
 		border-top: 1px solid #dbdbdb;
 	}
 
-   .sidebar
+/*  .sidebar
    {
    	height: 80%;
    	width: 14em;
-   	display: inline-block;
+   	display: block;
    	float: left;
-   	padding: 1em 1em 80em 1em;
+   	padding: 1em 1em 1em 1em;
    	left: 0.5em;
-   	margin-top: 10em;
+   	bottom: 100px;
+   	top: 25em;
   	 	z-index:1;
-  	 	position: absolute;
-  	 	overflow: auto;
+  	 	position: fixed;
+  	 	overflow: hidden;
   	}
   	
-      .sidebar a 
+    .sidebar a 
       {
         padding: 4px 4px 4px 0px;
         text-decoration: none;
@@ -332,10 +333,12 @@
         text-align: left;
       }
   
-      .sidebar a:hover
+    .sidebar a:hover
       {
         color: #FF0000;
       }
+      */
+      
   
 
   #content
@@ -363,7 +366,7 @@
 		display: block;
 		background: #121212;
 		color: rgba(255,255,255,.4);
-		z-index: 1;
+		z-index: 2;
 		padding: 5em 5em 5em 5em;
 		clear:both;
 	}
@@ -401,6 +404,7 @@
 	
 	#copyright .container
 	{
+		
 	}
 	
 	#copyright a

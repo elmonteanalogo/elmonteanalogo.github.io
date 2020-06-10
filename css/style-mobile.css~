@@ -206,7 +206,7 @@
 
 	#main
 	{
-		padding: 3em 0em 2em 0em;
+		padding: 0em 0em 0em 0em;
 		text-align: justify;
 	}
 
@@ -218,6 +218,7 @@
 	#content
 	{
 		width: 100%;
+		position: relative;
 				padding: 3em 0em 2em 0em;
 		margin: 1em 1em 1em 1em;
 	}
@@ -239,6 +240,59 @@
 	#sidebar
 	{
 	
+	}
+	
+	 .sidebar
+   {
+   	height: 80%;
+   	width: 10em;
+   	display: inline-block;;
+   	padding: 1em 1em 1em 1em;
+  	 	z-index:0;
+  	 	position: absolute;
+  	 	overflow: auto;
+  	}
+  	
+    .sidebar a 
+      {
+        padding: 1px 1px 1px 0px;
+        text-decoration: none;
+        font-size: 11px;
+        color: #818181;
+        display: block;
+        text-align: left;
+      }
+  
+    .sidebar a:hover
+      {
+        color: #FF0000;
+      }
+      
+	.sidebar header h2
+	{
+		font-size: 1em;
+	}
+
+  #contenido
+  {
+  	   position: relative;
+  	   width: 80%;
+  	   top: 10em;
+  	   left: -4em;
+  }
+  
+  	#contenido header h2
+	{
+		letter-spacing: -1px;
+		font-size: 2em;
+		text-align: left;
+	}
+	
+	#contenido header h3
+	{
+		letter-spacing: -1px;
+		font-size: 3em;
+		padding: 1em 0em 0em 0em;
 	}
 	
 
