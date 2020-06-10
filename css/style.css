@@ -389,22 +389,11 @@
 	
 	#copyright
 	{
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> master
 		position: relative;
 		display: block;
 		padding: 3em 0em;
 		margin: 0 auto;
-<<<<<<< HEAD
-		position: absolute;
-=======
-=======
-		position: absolute;
 		padding: 3em 0em;
->>>>>>> master
->>>>>>> master
 		text-align: center;
 		color: rgba(255,255,255,.2);
 		z-index: 3;
