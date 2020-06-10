@@ -389,10 +389,15 @@
 	
 	#copyright
 	{
+<<<<<<< HEAD
 		position: relative;
 		display: block;
 		padding: 3em 0em;
 		margin: 0 auto;
+=======
+		position: absolute;
+		padding: 3em 0em;
+>>>>>>> master
 		text-align: center;
 		color: rgba(255,255,255,.2);
 		z-index: 3;
