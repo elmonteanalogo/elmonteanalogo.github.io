@@ -113,11 +113,12 @@
 
 <!-- Licencias -->
 	
-		<div id="copyright">
-			<div class="container">
-				Copyleft: Este portal está disponible bajo la licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)
-			</div>
-		</div>
+<div id="copyright">
+  <div class="container">
+Copyleft: Este portal está disponible bajo la licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional<br> 
+(CC BY-NC-SA 4.0)
+  </div>
+</div>div>
 		
 <!-- This website was built based on the template "Monochromed" by TEMPLATED. templated.co | @templatedco
      Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)

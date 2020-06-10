@@ -22,57 +22,61 @@
 	</head>
 	
 	
-	<body class="homepage">	
+  <body class="homepage">	
 		
 <!-- Header -->
 
 <div id="header">
 	<div class="container">
 			
-			<!-- Logo -->
-				<div id="logo">
-					<h1><a href="#">El Monte Análogo</a></h1>
-					<span>Portal Personal de Carlos G.R.S.</span>
-				</div>
-				
+<!-- Logo -->
+		<div id="logo">
+			<h1><a href="#">El Monte Análogo</a></h1>
+			<span>Portal Personal de Carlos G.R.S.</span>
+		</div>
+<!-- /Logo -->				
+
 <!-- Navegación -->	
-				<nav id="nav">
-					<ul>
+			<nav id="nav">
+				<ul>
 						<li class="active"><a href="index.html">Inicio</a></li>
-                  <li><a href="images/enconstruccion.gif">Actualidad</a></li>							
+            	   <li><a href="images/enconstruccion.gif">Actualidad</a></li>							
 						<li><a href="mamotreto.html">Mamotreto</a></li>
-					  <!--<li><a href="onecolumn.html">Naomoredis</a></li>-->
-					</ul>
-				</nav>
+						 <!--<li><a href="onecolumn.html">Naomoredis</a></li>-->
+				</ul>
+			</nav>
 <!-- /Navegación -->	
 					
 	</div>
 </div>
 
+<!-- Header -->
 
-<!-- Main -->
+
+<!-- ***************  Main ***************  -->
+
 
 <div id="main">
 	<div class="container">
 				
-					<!-- Content -->
-						<div class="8u skel-cell-important">
-							<section id="content">
-								<header>
-									<h2>Hola</h2>
-								</header>
-								<p>Hay cosas que quiero que no existen y que por lo tanto tengo que crear yo aunque preferiría no hacerlo. Creo que podría partir de esta frase para empezar a hablar de cualquier cosa y a mi eso me parece un buen indicio de que es una frase adecuada para empezar a hablar de este portal, que es una plataforma que quería, que no existía y que he creado desde la que podría en efecto hablar de cualquier cosa.</p> 
+<!-- Content -->
+		<div class="8u skel-cell-important">
+		<section id="content">
+			<header>
+					<h2>Hola</h2>
+			</header>
+<p>Hay cosas que quiero que no existen y que por lo tanto tengo que crear yo aunque preferiría no hacerlo. Creo que podría partir de esta frase para empezar a hablar de cualquier cosa y a mi eso me parece un buen indicio de que es una frase adecuada para empezar a hablar de este portal, que es una plataforma que quería, que no existía y que he creado desde la que podría en efecto hablar de cualquier cosa.</p> 
 <p>Por supuesto, no hablaré de cualquier cosa sino de algunas pocas cosas que considero meritorias del esfuerzo que me supone escribirlas. En <strong>Actualidad</strong> encontrarás una columna semanal sobre la situación actual del mundo en general y de Latinoamérica y México en particular haciendo referencia a las noticias mas relevantes que se hayan producido con un enfoque principalmente geopolítico, económico y militar. En <strong>Mamotreto</strong> encontrarás una exposición filosófica y/o ensayo literario sobre todas las cosas que crecerá a ritmo irregular pero constante. Ampliaré el sitio con el tiempo...</p>
-								<a href="meta.html" class="button">Leer mas sobre este portal</a>
-							</section>
-						</div>
-						
-					<!-- /Content -->
-						
-					<!-- Sidebar la borre-->
+<a href="meta.html" class="button">Leer mas sobre este portal</a>
+		</section>
+		</div>	
+<!-- /Content -->
 						
 	</div>
 </div>
+
+
+<!-- ***************  Main ***************  -->
 	
 
 <!-- Footer -->
@@ -80,6 +84,8 @@
 		<div id="footer">
 			<div class="container">
 				<div class="row">
+				
+<!-- Foto -->							
 					<div class="5u">
 						<section>
 							<ul class="style1">
@@ -88,9 +94,8 @@
 							</ul>
 						</section>
 					</div>
-					
+<!-- /Foto -->							
 <!-- Acerca de -->				
-
 					<div class="6u">
 						<section>
 							<header>
@@ -102,8 +107,11 @@
 				</div>
 			</div>
 		</div>
+<!-- /Acerca de -->		
+
 
 <!-- Licencias -->
+
 
 <div id="copyright">
   <div class="container">
@@ -111,10 +119,11 @@ Copyleft: Este portal está disponible bajo la licencia Creative Commons Atribuc
 (CC BY-NC-SA 4.0)
   </div>
 </div>
-		
+
 <!-- This website was built based on the template "Monochromed" by TEMPLATED. templated.co | @templatedco
      Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 -->
+
 	</body>
 </html>
 	

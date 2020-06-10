@@ -279,7 +279,7 @@
   	   width: 90%;
   	   top: 10em;
   	   left: -4em;
-  	   bottom: 30em;
+      padding-bottom: 10em;
   }
   
   	#contenido header h2
@@ -304,10 +304,13 @@
 	#footer
 	{
 		padding: 0em 0em 0em 0em;
+		 display: block;
+  margin-left: auto;
+  margin-right: auto;
 	}
 
 	#footer h2
 		{
 			font-size: 1em;
 		}
-f
+		

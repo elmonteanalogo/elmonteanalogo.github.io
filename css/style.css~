@@ -350,9 +350,7 @@
   
   #contenido
   {
-  	   position: relative;
-  	   margin: 1.5em 0em 1.5em 0em;
-  	   left: 4em;
+
   }
   
 /*********************************************************************************/
@@ -371,7 +369,7 @@
 		clear:both;
 	}
 	
-	#footer header h2
+	.footer header h2
 	{
 		color: #FFF;
 		width: 50%;
