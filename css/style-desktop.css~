@@ -67,6 +67,7 @@
 		#logo h1
 		{
 			color: #FFF;
+			padding-bottom: 1em;
 		}
 	
 		#logo h1 a

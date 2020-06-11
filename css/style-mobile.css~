@@ -88,6 +88,13 @@
 			margin-top: 0em;
 			padding: 0em;
 		}
+		
+	.image
+		{
+			display: inline-block;
+			max-width: 100%; 
+			height: auto
+		}
 
 /*********************************************************************************/
 /* Header                                                                        */
@@ -95,7 +102,7 @@
 
 	#header
 	{
-		padding: 1.5em;
+		padding: 1em;
 		text-align: center;
 	}
 	
