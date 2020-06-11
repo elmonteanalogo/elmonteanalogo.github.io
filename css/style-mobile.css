@@ -95,13 +95,13 @@
 
 	#header
 	{
-		padding: 5em 0em;
+		padding: 1em;
 		text-align: center;
 	}
 	
 		.homepage #header
 		{
-			padding: 4em 0em;
+			padding: 2em 0em;
 		}
 
 		#header .container
@@ -219,7 +219,7 @@
 	{
 		width: 100%;
 		position: relative;
-				padding: 3em 0em 2em 0em;
+		padding: 1.5em 0em 1.5em 0em;
 		margin: 1em 1em 1em 1em;
 	}
 	

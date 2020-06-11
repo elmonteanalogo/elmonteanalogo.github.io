@@ -20,7 +20,7 @@
 		header h2
 		{
 			font-size: 2em;
-			padding-bottom: 0.6em;
+			padding-bottom: 1em;
 			padding-top: 0.6em;
 		}
 		
@@ -218,8 +218,8 @@
 	#content
 	{
 		width: 100%;
-	  padding: 3em 0em 2em 0em;
-		margin: 1em 1em 1em 1em;
+	   padding: 1em 0em 2em 0em;
+		margin: 0em 1em 1em 1em;
 	}
 	
 
@@ -251,6 +251,7 @@
 		{
 			font-size: 1.7em;
 		}
+		
 
 /**********************************************************************************************************/
 /*   This website was built based on the template "Monochromed" by TEMPLATED. templated.co | @templatedco */

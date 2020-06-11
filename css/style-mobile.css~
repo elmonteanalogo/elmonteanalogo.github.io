@@ -95,13 +95,13 @@
 
 	#header
 	{
-		padding: 5em 0em;
+		padding: 1.5em;
 		text-align: center;
 	}
 	
 		.homepage #header
 		{
-			padding: 4em 0em;
+			padding: 2em 0em;
 		}
 
 		#header .container
@@ -219,7 +219,7 @@
 	{
 		width: 100%;
 		position: relative;
-				padding: 3em 0em 2em 0em;
+		padding: 1.5em 0em 1.5em 0em;
 		margin: 1em 1em 1em 1em;
 	}
 	
@@ -279,7 +279,7 @@
   	   width: 90%;
   	   top: 10em;
   	   left: -4em;
-      padding-bottom: 10em;
+      padding-bottom: 30em;
   }
   
   	#contenido header h2
