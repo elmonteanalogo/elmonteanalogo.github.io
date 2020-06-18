@@ -58,7 +58,7 @@
 							<section id="content">
 								<header>
 									<h2>Columna 1. El bicho, Primera Parte.</h2>
-									<span>10.junio.2020</span>
+									<span>10.junio.2020 <i>editado: 12.junio.2020</i></span>
 								</header>
 <p>Empecé a concebir este portal al comienzo del "distanciamiento" por la pandemia de Covid-19 en México cuando la propagación del virus era aún baja y lenta. Las cosas han cambiado bastante desde entonces. Tanto mejor para empezar a escribir sobre lo que acontece.</p>
 
@@ -85,7 +85,7 @@ En cambio si medimos el ritmo del cambio sobre nuevos casos y muertes por día, 
 
 <p><img src="images/columnas/1/Daily new confirmed COVID deaths per million people.png"  alt="Grafica" class="center"></p>
 
-<p>México, que lleva 15,944 muertos para 133,974 casos confirmados, se está convirtiendo en uno de los países en donde el Covid es más mortal de acuerdo con los números, sin embargo es casi seguro que esta medición sea errónea dado que México no hace pruebas masivas y el número de casos reales debe ser mucho mas alto.</p>
+<p>México, que a 12 de junio lleva 15,944 muertos entre 133,974 casos confirmados, se está convirtiendo en uno de los países en donde el Covid es más mortal de acuerdo con los números, sin embargo es casi seguro que esta medición sea errónea dado que México no hace pruebas masivas y el número de casos reales debe ser mucho mas alto.</p>
 
 <p><img src="images/columnas/1/Case fatality rate of the ongoing COVID-19 pandemic.png" alt="Foto" class="center"></p>
 
