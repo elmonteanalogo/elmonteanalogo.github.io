@@ -186,7 +186,7 @@
    	bottom: 100px;
    	top: 25em;
   	 	z-index:0;
-  	 	position: absolute;
+  	 	position: fixed;;
   	 	overflow: hidden;
   	}
   	
