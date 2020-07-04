@@ -69,10 +69,10 @@
      		</li>
          <li class="drop"><a href="#">Historia</a>
       		<ul class="submenu">
-	      <li><a href="#conceptos">Conceptos</a></li>
+	      <li><a href="#conceptos"></a></li>
 				</ul>
       	</li>
-	      <li class="drop"><a href="#">Filosofía</a>
+	      <li class="drop"><a href="mamofilos.html">Filosofía</a>
 	     		<ul class="submenu">
 	      		<li><a href="#geopol">Sobre la geopolítica contemporánea</a></li>
       		</ul>
