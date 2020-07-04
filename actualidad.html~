@@ -56,7 +56,7 @@
 			
 <!-- Content -->
 
-						<div class="12u skel-cell-important">
+						<div id="content" class="12u skel-cell-important">
 							<section id="content">
 							
 								<header>
