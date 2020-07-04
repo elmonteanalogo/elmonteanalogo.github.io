@@ -1,101 +1,96 @@
-{
-  box-sizing: border-box;
-}
 
 body 
 
-}
-	
-{
+		{
 		font-family: "Noto Sans", sans-serif;
 		padding: 10px;
 		background: #090909;
-}
+		}
 
 body,input,textarea,select
 
-{
+		{
 		font-family: "Noto Sans", sans-serif;
 		font-size: 18px;
 		line-height: 2em;
-}
+		}
 
 h1,h2,h3,h4,h5,h6
 
-{
+		{
 		font-weight: bold;
-}
+		}
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a
 
-{
+		{
 		color: inherit;
-}
+		}
 
 strong, b
 	
-{
+		{
 		font-weight: bold;
 		color: #000000;
-}
+		}
 	
 em, i
 
-{
+		{
 		font-style: italic;
 		color: inherit;
-}
+		}
 
 a
 
-{
+		{
 		text-decoration: underline;
 		color: #ff0000;
-}
+		}
 	
 a:hover
 
-{
+		{
 		text-decoration: underline overline;
 		color: #4c0000;
-}
+		}
 
 p, ul, ol, dl, table
 
-{
+		{
 		margin-bottom: 1em;
-}
+		}
 
 .table
 
-{
+		{
 		display: table;   /* Allow the centering to work */
 		margin: 0 auto;
-}
+		}
 
 ul.faico li
 
-{
-			font-size: 1em;
-			display: inline-block;
-				list-style: none;
-	padding-top: 20px;
-}
+		{
+		font-size: 1em;
+		display: inline-block;
+		list-style: none;
+		padding-top: 20px;
+		}
 
 img
 
-{
+		{
 		width: 100%;
 		display: inline-block;
 		max-width: 100%; 
 		height: auto;
-}
+		}
 
 /* Favicons */
 	
 .fa 
 
-{
+		{
 		padding: 15px;
 		font-size: 40px;
   		width: 50px;
@@ -103,7 +98,7 @@ img
   		text-decoration: none;
  		margin: 2px 2px;
 		border-radius: 25px;
-}
+		}
 
 .fa:hover 
 
@@ -408,11 +403,11 @@ header span
 		
 #content
  
- {
+		 {
 		text-align: justify;
 		width: 100%;
 		padding: 2em 1em 1em 5em;
-}
+		}
 	
 .content
 
@@ -455,24 +450,30 @@ header span
 
 .nab-fixed
 
-{
-  width: 100%;
-  position: fixed;
-  top: 0em;
-}
+		{
+		width: 100%;
+		position: fixed;
+		top: 0em;
+		}
 
-.ul{
+.ul
+
+{
   margin: 0px;
   padding: 0px;
   list-style: none;
 }
 
-ul.dropdown{ 
+ul.dropdown
+
+{ 
   position: relative; 
   width: 100%; 
 }
 
-ul.dropdown li{ 
+ul.dropdown li
+
+{ 
   font-weight: bold; 
   float: left; 
   width: 180px; 
@@ -480,11 +481,15 @@ ul.dropdown li{
   background: #2f3030;
 }
 
-ul.dropdown a:hover{ 
+ul.dropdown a:hover
+
+{ 
   color: #2f3030; 
 }
 
-ul.dropdown li a { 
+ul.dropdown li a 
+
+{ 
   display: block; 
   padding: 0.3em;
   color: #F9F7EC; 
@@ -496,7 +501,9 @@ ul.dropdown li a {
 }
 
 ul.dropdown li a:hover,
-ul.dropdown li a.hover{ 
+ul.dropdown li a.hover
+
+{ 
   background: #ff0000;
   position: relative;
   color: #fff;
@@ -536,7 +543,7 @@ ul.dropdown ul li a:hover{
 }
 
 .drop > a:after{
-  content:"";
+  content: normal;
   position: absolute;
   right: 10px;
   top: 40%;
@@ -547,7 +554,7 @@ ul.dropdown ul li a:hover{
 }
 
 .drop > a:hover:after{
-  content:"";
+  content: normal;
    border-left: 5px solid transparent;
   border-top: 5px solid #fff;
   border-right: 5px solid transparent;
@@ -698,9 +705,6 @@ header h2
 		{
 		width: 100%;
 		font-size: 1em;
-		}
-		
- {
 		text-align: justify;
 		width: 100%;
 		padding-left: 0.5em;
