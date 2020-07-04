@@ -127,8 +127,10 @@
 
 <div id="copyleft">
   <div class="container">
+	<section id="copyleft">
 Copyleft: Este portal está disponible bajo la licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional<br> 
 (CC BY-NC-SA 4.0)
+	</section>
   </div>
 </div>
 
