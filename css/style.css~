@@ -705,9 +705,6 @@ header h2
 		{
 		width: 100%;
 		font-size: 1em;
-		}
-		
- {
 		text-align: justify;
 		width: 100%;
 		padding-left: 0.5em;

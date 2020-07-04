@@ -9,10 +9,11 @@
 		<meta name="robots" content="index, follow" />
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
-        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-		<script src="js/skel.min.js"></script>
-		<script src="js/skel-panels.min.js"></script>
-		<script src="js/init.js"></script>
+      <script src="js/jquery.min.js"></script>
+      <script src="js/skel.min.js"></script>
+      <script src="js/init.js"></script>
+      <script src="js/skel-panels.min.js"></script>
+		<script src="js/uhhh.js"></script>
 		<noscript>
 			<link rel="stylesheet" href="css/skel-noscript.css">
 			<link rel="stylesheet" href="css/style.css">
@@ -72,9 +73,9 @@ Las facultades de filosofía y humanidades, como muchas otras en occidente, son 
 <p>Pero no hemos de volver exclusivamente a las discusiones a la sombra de los árboles. El momento histórico en que vivimos, caracterizado sobre todo por la digitalización, la globalización y el fin del capitalismo, nos da las herramientas para difundir instantáneamente a nivel global las ideas que deseemos. Para mi eso implica una gran responsabilidad y no creo estar a la altura de la misma. Pero al mismo tiempo no comunicar mis pensamientos parece ser extremadamente irresponsable considerando que lo que hay es la difusión masiva de pensamientos que se que son incorrectos, dañinos y/o explícitamente diseñados para manipular y controlar. Así pues, lo menos que puedo hacer es manifestarme a través de estas letras para denunciar lo falso e incorrecto y sostener lo verdadero y correcto.</p>
 
 <p>Además de estas cuestiones filosóficas tengo la intención de hacer magia. Esta magia tendrá tres formas:<br>
-👹 Piezas de <i>agitprop</i> comunista (animación, pintura e ilustración digital)<br>
+👹 Piezas de <i>agitprop</i> comunista (animación, pintura e ilustración digital).<br>
 👹 Un juego de rol (y cartas) que estoy creando llamado <i>Naomoredis</i>.<br>
-👹 Una serie animada semiautobiográfica con episodios de unos 10 minutos de duración<br>
+👹 Una serie animada semiautobiográfica con episodios de unos 10 minutos de duración.<br>
 En un futuro cercano añadiré a este portal secciones de animación y rol en donde compartiré estas cosas.</p>
 
 <p>Mi intención es hacer todo esto sí o sí, independientemente de otras cosas que haga o deje de hacer en mi vida. No voy a depender de nada externo a mí. Pero me voy a dejar ayudar a partir de ahora. Todo lo que tiene que ver con dinero me provoca verdadero asco. Mi primer instinto al ver un billete es destruirlo, tengo que convencerme de embolsármelo. Me resulta verdaderamente insultante recibir dinero por mi trabajo dado que nada verdaderamente valioso se puede comprar con dinero, solo sirve para subsistir, subsistir y continuar corroborando día a día el horror de la situación. Por años intenté ser pintor de lienzos. Nunca pude superar el asco de permitir que un burgués se apropiase de mi trabajo para su masturbación exclusiva por la única razón de tener el capital para comprar la pieza. Soy uno de los pocos seres vivos capaces de sobrevivir con un salario mínimo mexicano, $150 USD al mes. Mi objetivo es llegar a conseguir por lo menos esa cantidad vendiendo cosas como modelos 3d en la red. Aceptaré donaciones, pero no puedo aceptar ningún arreglo en donde quien tiene más reciba más. Ojalá las donaciones sean del tipo "le daré lo que gastaría en la cerveza que le invitaría" o del tipo "le daré mensualmente esta insignificante parte de mi ingreso porque me gusta su contenido". Por otro lado tampoco estoy dándolo todo gratis aquí, estoy dando el lado exotérico. Lo demás, como todo lo verdaderamente valioso, tiene un alto costo y es inconseguible con billetes ridículos.</p>
