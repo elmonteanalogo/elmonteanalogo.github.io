@@ -657,6 +657,18 @@ body,input,textarea,select
 		{
 		font-size: 10pt;
 		}
+	
+#logo h1 a
+		
+{
+		display: block;
+		letter-spacing: 1px;
+		text-decoration: none;
+		text-transform: uppercase;
+		font-size: 2em;
+		font-weight: 900;
+		color: #EAEAEB;
+}
  
 header h2
 		{

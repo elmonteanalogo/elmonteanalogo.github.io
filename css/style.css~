@@ -456,7 +456,7 @@ header span
 .nab-fixed
 
 {
-  width: 750px;
+  width: 100%;
   position: fixed;
   top: 0em;
 }
@@ -657,6 +657,26 @@ body,input,textarea,select
 		{
 		font-size: 10pt;
 		}
+		
+.logo h1
+		
+{
+		color: #FFF;
+		padding-bottom: 1em;
+		font-size: 1em;
+}
+
+#logo h1 a
+		
+{
+		display: block;
+		letter-spacing: 1px;
+		text-decoration: none;
+		text-transform: uppercase;
+		font-size: 1em;
+		font-weight: 900;
+		color: #EAEAEB;
+}
  
 header h2
 		{
