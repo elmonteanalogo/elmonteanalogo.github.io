@@ -39,7 +39,7 @@
 				<nav id="nav">
 					<ul>
 						<li class="active"><a href="index.html">Inicio</a></li>
-                  <li><a href="images/enconstruccion.gif">Actualidad</a></li>							
+                  <li><a href="actualidad.html">Actualidad</a></li>						
 						<li><a href="mamotreto.html">Mamotreto</a></li>
 					  <!--<li><a href="onecolumn.html">Naomoredis</a></li>-->
 					</ul>
@@ -55,28 +55,35 @@
 			
 
 					<!-- Content -->
-						<div class="10u skel-cell-important">
+						<div id="content" class="10u skel-cell-important">
 							<section id="content">
 								<header>
-									<h2>Sobre el origen y el futuro de esto</h2>
-									<h3>Actualidad</h3>
+									<h2>A donde va esto</h2>
 								</header>
 
-<p>Originalmente había pensado en que quería un agregador y un filtro de noticias. La cuestión del agregador es sencilla. He usado agregadores desde hace bastantes años, gracias al formato <a href="https://es.wikipedia.org/wiki/RSS">RSS</a>. Son programas de escritorio que monitorean las fuentes de noticias que se les solicitan y que bajan las noticias automáticamente de manera que unx no necesita volver a visitar el portal de tal o cual agencia noticiosa sino que simplemente revisa los artículos descargados de manera similar a como aún se revisa el correo.</p>
+<p>Mi intención es concentrar en un espacio públicamente accesible lo que considero más verdadero sobre todo lo que considero importante y expresar mis puntos de vista con respecto a estas cosas. Antes de crear este portal vivía cultivando el silencio y la contemplación y no había escrito nada. Si ya existiera algo como lo que pretendo crear aquí continuaría viviendo de esa manera y me ahorraría este trabajo, pero realmente no lo hay y menos en español. Voy a ser consistente con la columna de actualidad, es realmente lo mínimo que puedo hacer. Se actualiza todos los miércoles (generalmente entre 13:00 y 15:00). El mamotreto crecerá tanto en cantidad como en calidad; no solo añadiré citas y referencias sino descargas directas de los documentos referenciados, no solo añadiré figuras y gráficas sino todo tipo de material audiovisual. Pero serán varios años antes de que empiece a quedar algo decente.</p>
 
-<p>Actualmente yo utilizo <a href="https://lzone.de/liferea/">Liferea</a> que me parece que es el mejor agregador y lector de RSS en GNU/Linux pero no es multiplataforma. En Windows, que por cierto <a href="https://www.gnu.org/proprietary/malware-microsoft.html">es malware</a> y deberías dejar de usar, una opción es <a href="https://quiterss.org/">QuiteRSS</a>.</p>
+<p>Sí me considero un filósofo. Creo que el término en su significado griego original de amante de la sabiduría me describe. Pero lxs filósofxs desde hace miles de años tienden a difundir sus pensamientos y para mí aquí es donde empiezan muchas preocupaciones de índole ético. Es demasiado común que se malinterprete lo que dicen y en todo caso me parece más correcto difundir una doctrina a partir del ejemplo personal relativamente silencioso que a partir de palabras; por cierto que las doctrinas que no se pueden traducir en actos concretos por lo menos individuales si no sociales son basura/ruido. La forma tradicional de transmitir doctrinas filosóficas es a través de las escuelas filosóficas, en donde el ejemplo es priomordial y se procura, por varios métodos, reducir al mínimo las interpretaciones equivocadas de lxs estudiantes. Así ha sido por varios miles de años en la mayor parte del mundo pero en el llamado "occidente", por razones que explicaré exhaustivamente en el mamotreto, las escuelas filosóficas han sido suprimidas violentamente por instituciones de la imbecilidad organizada como la "iglesia católica" desde hace unos 1700 años y hasta hace apenas unos 200. En los últimos siglos, con el contexto del capitalismo como sistema-mundo, ciertas instituciones han pretendido apropiarse de la filosofía, sobre todo las "universidades". Pretenden que en vez de sentarnos a la sombra de un árbol a discutir con quien lo desee, lxs filósofxs nos dediquemos a escribir artículos idiotas que ni siquiera son públicos, diseñados explícitamente para no ser leídos. O peor, a dar clases.</p>
 
-<p>Lo probleḿatico es el filtro. Definitivamente no es algo que se pueda automatizar, mas bien es un trabajo de tiempo completo y alta especialización. Se requiere de un censor con suficientes conocimientos generales cuando menos de historia y filosofía y con una sólida formación ideológica para poder separar el oro de la paja.</p>
+<p><img src="images/mai68.png" alt="Grafica" class="center"></p>
 
-<p>Meses antes de crear este sitio intenté realizar ese trabajo consultando diaramente entre 30 y 40 fuentes de las que extraía entre 5 y 10 artículos diarios que consideraba contenían información relevante. En realidad no era tan difícil, una vez me adapté a un ritmo de trabajo podía hacer la selección en alrededor de hora y media. Pero al mismo tiempo me di cuenta de que esas listas de artículos además de engorrosas y poco estéticas eran formas ineficientes de acceder a la mencionada información relevante. También me di cuenta de que había un mayor valor agregado en la interpretación, contextualización y explicación de esos pocos artículos que en su mera selección.</p>
+Las facultades de filosofía y humanidades, como muchas otras en occidente, son nidos de parásitos pestilentes que habría que cerrar inmediatamente. En estos lugares se difunden masivamente interpretaciones de la realidad no solo pobres e incorrectas sino fundamentalmente falsas y engañosas. No solo se trata del interés de estado y capital en indoctrinar a lxs jóvenes con ideología burguesa y pensamiento colonizado. Además de eso, los parásitos que ocupan puestos importantes en las "universidades" no tienen ellxs mismxs un conocimiento más fino de sí mismxs ni del mundo ni encarnan principios filosóficos en sus acciones cotidianas, antes bien tienden a ser imbéciles con tendencias sociopáticas del mismo tipo de los que ocupan puestos importantes en cualquier otra institución burguesa y se dedican a comentar <i>in sæcula sæculorum</i> a un minúsculo grupo de pensadores occidentales (la mayoría completamente aborrecibles) y a ignorar la mayoría de la filosofía existente, incluso complaciéndose en esta ignorancia.</p>
 
-<p>Entonces decidí que esa era una mejor idea, escribir una especie de columna sobre la actualidad, haciendo referencia a los artículos consultados. Este es el resultado.</p>
+<p>Pero no hemos de volver exclusivamente a las discusiones a la sombra de los árboles. El momento histórico en que vivimos, caracterizado sobre todo por la digitalización, la globalización y el fin del capitalismo, nos da las herramientas para difundir instantáneamente a nivel global las ideas que deseemos. Para mi eso implica una gran responsabilidad y no creo estar a la altura de la misma. Pero al mismo tiempo no comunicar mis pensamientos parece ser extremadamente irresponsable considerando que lo que hay es la difusión masiva de pensamientos que se que son incorrectos, dañinos y/o explícitamente diseñados para manipular y controlar. Así pues, lo menos que puedo hacer es manifestarme a través de estas letras para denunciar lo falso e incorrecto y sostener lo verdadero y correcto.</p>
 
-                          <header>
-                            <h3>Mamotreto</h3>
-                          </header>
-                         
- <p> Esto es mas sencillo, es un único volúmen multipropósito en donde publicaré todas mis ideas sobre todo filosóficas.</p>
+<p>Además de estas cuestiones filosóficas tengo la intención de hacer magia. Esta magia tendrá tres formas:<br>
+👹 Piezas de <i>agitprop</i> comunista (animación, pintura e ilustración digital)<br>
+👹 Un juego de rol (y cartas) que estoy creando llamado <i>Naomoredis</i>.<br>
+👹 Una serie animada semiautobiográfica con episodios de unos 10 minutos de duración<br>
+En un futuro cercano añadiré a este portal secciones de animación y rol en donde compartiré estas cosas.</p>
+
+<p>Mi intención es hacer todo esto sí o sí, independientemente de otras cosas que haga o deje de hacer en mi vida. No voy a depender de nada externo a mí. Pero me voy a dejar ayudar a partir de ahora. Todo lo que tiene que ver con dinero me provoca verdadero asco. Mi primer instinto al ver un billete es destruirlo, tengo que convencerme de embolsármelo. Me resulta verdaderamente insultante recibir dinero por mi trabajo dado que nada verdaderamente valioso se puede comprar con dinero, solo sirve para subsistir, subsistir y continuar corroborando día a día el horror de la situación. Por años intenté ser pintor de lienzos. Nunca pude superar el asco de permitir que un burgués se apropiase de mi trabajo para su masturbación exclusiva por la única razón de tener el capital para comprar la pieza. Soy uno de los pocos seres vivos capaces de sobrevivir con un salario mínimo mexicano, $150 USD al mes. Mi objetivo es llegar a conseguir por lo menos esa cantidad vendiendo cosas como modelos 3d en la red. Aceptaré donaciones, pero no puedo aceptar ningún arreglo en donde quien tiene más reciba más. Ojalá las donaciones sean del tipo "le daré lo que gastaría en la cerveza que le invitaría" o del tipo "le daré mensualmente esta insignificante parte de mi ingreso porque me gusta su contenido". Por otro lado tampoco estoy dándolo todo gratis aquí, estoy dando el lado exotérico. Lo demás, como todo lo verdaderamente valioso, tiene un alto costo y es inconseguible con billetes ridículos.</p>
+
+<p><img src="images/bowallet.png" alt="Grafica" class="center"></p>
+
+<p>Aclaración en caso de un/a capitalista solipsista, nihilista, al borde del suicidio o que desee verdaderamente traicionar a su clase llegue a leer eso:<br>
+1 BTC - Unos 5 años de vida, avances substanciales en todos los proyectos y la conclusión de algunos.<br>
+22 BTC o $200,000 USD - Lo que necesito para tener "independencia financiera" y por lo tanto llevar todos estos proyectos y todos mis proyectos futuros, durante el resto de mi vida, a buen fin con el mayor nivel de calidad y profesionalismo posible.</p>
 							</section>
 						</div>
 			
@@ -130,7 +137,7 @@
 
 <!-- Licencias -->
 	
-<div id="copyright">
+<div id="copyleft">
   <div class="container">
 Copyleft: Este portal está disponible bajo la licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional<br> 
 (CC BY-NC-SA 4.0)

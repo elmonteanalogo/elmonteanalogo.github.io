@@ -5,18 +5,22 @@
 */
 
 $(document).ready(function() {
-  
-  $(window).scroll(function () {
-      //if you hard code, then use console
-      //.log to determine when you want the 
-      //nav bar to stick.  
-      console.log($(window).scrollTop())
-    if ($(window).scrollTop() > 280) {
-      $('#nab').addClass('nab-fixed');
+  var stickyNavTop = $('#nab').offset().top;
+
+  var stickyNav = function(){
+    var scrollTop = $(window).scrollTop();
+
+    if (scrollTop > stickyNavTop) { 
+      $('#nab').addClass('fixed');
+    } else {
+      $('#nab').removeClass('fixed'); 
     }
-    if ($(window).scrollTop() < 281) {
-      $('#nab').removeClass('nab-fixed');
-    }
+  };
+
+  stickyNav();
+
+  $(window).scroll(function() {
+    stickyNav();
   });
 });
 

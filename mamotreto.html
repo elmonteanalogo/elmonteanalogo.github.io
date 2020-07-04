@@ -13,6 +13,7 @@
 		<script src="js/skel.min.js"></script>
 		<script src="js/skel-panels.min.js"></script>
 		<script src="js/init.js"></script>
+		<script src="js/uhhh.js"></script>
 		<noscript>
 			<link rel="stylesheet" href="css/skel-noscript.css">
 			<link rel="stylesheet" href="css/style.css">
@@ -58,22 +59,32 @@
 
 <!-- Barra Lateral-->
 <section>
-  <div class="sidebar";>
-    <h2>Índice</h2>
-      <ul>
-	      <li><a href="mamotreto.html">A manera de introducción</a></li>
-	      <li><a href="#estructura">Sobre la estructura del Mamotreto</a></li>
-      </ul>
-    <h2>-Historia-</h2>
-      <ul>
+	<nav id="nab";>
+		<ul class="dropdown">
+	   	<li class="drop"><a href="#">Índice</a>
+	      	<ul class="submenu">
+	      		<li><a href="#" > A manera de introducción</a></li>
+	      		<li><a href="#estructura">Sobre la estructura del Mamotreto</a></li>
+     			</ul>
+     		</li>
+         <li class="drop"><a href="#">Historia</a>
+      		<ul class="submenu">
 	      <li><a href="#conceptos">Conceptos</a></li>
-      </ul>        
-    <h2>-Filosofía-</h2>
-      <ul>
-	      <li><a href="#geopol">Sobre la geopolítica contemporánea</a></li>
-      </ul>    
-    <h2>-Magia-</h2>
-      </ul>
+				</ul>
+      	</li>
+	      <li class="drop"><a href="#">Filosofía</a>
+	     		<ul class="submenu">
+	      		<li><a href="#geopol">Sobre la geopolítica contemporánea</a></li>
+      		</ul>
+      	</li>    
+	   	<li class="drop"><a href="#">Magia</a>
+	   	</li>
+	  		<li class="drop"><a href="#">Cosas Curadas</a>
+	   	</li>
+	   	<li class="drop"><a href="#">Magia #2</a>
+	   	</li>
+      	</ul>
+      </nav>
 </section>
 	</div>
 	</div>
@@ -81,8 +92,9 @@
 		
 				
 <!-- Content -->
-                  <section id="contenido"> 
-						<div id="contenido" class="8u skel-cell-important" style="margin: 0em 0em 2em 10em;"> 
+                  
+						<div id="content" class="12u skel-cell-important"> 	
+						<section id="content"> 						
 								<header>
 									<h2>A manera de introducción</h2>
 								</header>
@@ -408,6 +420,7 @@ Esta es la situación que prevalece hasta nuestros días. A través de su maquin
 
 
 							</section>
+						</div>
 <!-- /Content -->							
 						</div>
 <!-- Main -->
@@ -458,7 +471,7 @@ Esta es la situación que prevalece hasta nuestros días. A través de su maquin
 
 <!-- Licencias -->
 
-<div id="copyright">
+<div id="copyleft">
   <div class="container">
 Copyleft: Este portal está disponible bajo la licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional<br> 
 (CC BY-NC-SA 4.0)
