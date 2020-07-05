@@ -1,4 +1,10 @@
 
+@viewport
+
+{	 
+		zoom: 1.0;
+		width: extend-to-zoom;
+}
 body 
 
 		{
@@ -85,6 +91,17 @@ img
 		max-width: 100%; 
 		height: auto;
 		}
+		
+img.resize
+
+ {
+    width: 400px;
+    height: auto;
+    display: inline-block;
+	 margin-left: 40%;
+	 margin-right: auto;
+	 padding-bottom: 2em;
+ }
 
 /* Favicons */
 	
@@ -476,7 +493,7 @@ ul.dropdown li
 { 
   font-weight: bold; 
   float: left; 
-  width: 180px; 
+  width: 1em; 
   position: relative;
   background: #2f3030;
 }
@@ -491,7 +508,7 @@ ul.dropdown li a
 
 { 
   display: block; 
-  padding: 0.3em;
+  padding: 0em;
   color: #F9F7EC; 
   position: relative; 
   z-index: 2000; 
