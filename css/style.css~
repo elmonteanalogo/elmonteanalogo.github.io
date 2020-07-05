@@ -247,8 +247,8 @@ header h2
 
 {
 		font-size: 2em;
-		padding-bottom: 0em;
-		padding-top: 0.3em;
+		padding-bottom: 0.3em;
+		padding-top: 0.6em;
 		text-align: left;
 }
 		
