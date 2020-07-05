@@ -451,6 +451,7 @@ header span
 
 		{
 		width: 100%;
+		left: 0em;
 		top: 0em;
 		}
 
@@ -482,7 +483,7 @@ ul.dropdown li
 { 
   font-weight: bold; 
   float: left; 
-  width: 180px; 
+  width: 120px; 
   position: relative;
   background: #2f3030;
 }
@@ -604,7 +605,7 @@ ul.dropdown ul li a:hover{
 
 #footer
 
-	{
+		{
 		position: relative;
 		margin: auto;
 		display: block;
@@ -613,31 +614,31 @@ ul.dropdown ul li a:hover{
 		z-index: 2;
 		padding: 2em 0em 2em 0em;
 		clear:both;
-	}
+		}
 
 #footer h2
 
 		{
-			font-size: 1.7em;
+		font-size: 1.7em;
 		}
 		
 	
 #footer header h2
 
-	{
+		{
 		color: #FFF;
 		width: 50%;
 		margin: auto;
 		padding-top: 2.5em; 
 		padding-left: 1.5em;
 		font-size: 1.7em;
-	}
+		}
 	
 #footer p
 
-	{
+		{
 		text-align: justify;
-	}
+		}
 	
 /* Copyleft */
 	
@@ -658,114 +659,3 @@ ul.dropdown ul li a:hover{
 	
 	{	
 	}
-	
-
-
-/* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 1024px) 
-{
-	
-body,input,textarea,select
-
-		{
-		font-size: 10pt;
-		}
-	
-#logo h1 a
-		
-{
-		display: block;
-		letter-spacing: 1px;
-		text-decoration: none;
-		text-transform: uppercase;
-		font-size: 2em;
-		font-weight: 900;
-		color: #EAEAEB;
-}
- 
-header h2
-		{
-		font-size: 1.5em;
-		letter-spacing: 0.3px;
-		padding-bottom: 0.6em;
-		padding-top: 0.6em;
-		}
-		
-#main
-
-	   {
-		padding: 1em 1em 1em 1em;	
-		z-index: 1;
-		}
-		
-#content
- 
- 		{
-		text-align: justify;
-		width: 100%;
-		padding-left: 1em;
-		}
-	
-.content
-
-		{
-		width: 100%;
-		font-size: 1em;
-		text-align: justify;
-		width: 100%;
-		padding-left: 0.5em;
-		}
-	
-#footer
-
-		{
-		padding: 0em 2em 0em 2em;
-		}
-		/*/
-#sidebar
-
-		{
-		}
-		
-.sidebar
-
-		{
-   	height: 80%;
-   	width: 14em;
-   	display: inline-block;;
-   	padding: 1em 1em 1em 1em;
-  	 	z-index:0;
-  	 	position: absolute;
-  	 	overflow: auto;
-		}
-  	
-.sidebar a 
-
-      {
-        padding: 2px 2px 2px 0px;
-        font-size: 12px;
-        text-align: center;
-      }
-      
-.sidebar li, ul
-
-      {
-display: inline;
-      }/*/
-           
-#contenido
- 
-		{
-		position: relative;
-		text-align: justify;
-		width: 90%;
-		margin: 1em 1em 1em 1em;
-		}
-
-/* Responsive layout - when the screen is less than 400px wide, make the navigation links stack on top of each other instead of next to each other */
-@media screen and (max-width: 400px) {
-  .nav a {
-    float: none;
-    width: 100%;
-  }
-}

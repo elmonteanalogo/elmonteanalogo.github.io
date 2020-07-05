@@ -451,6 +451,7 @@ header span
 
 		{
 		width: 100%;
+		left: 0em;
 		top: 0em;
 		}
 
@@ -482,7 +483,7 @@ ul.dropdown li
 { 
   font-weight: bold; 
   float: left; 
-  width: 180px; 
+  width: 130px; 
   position: relative;
   background: #2f3030;
 }
