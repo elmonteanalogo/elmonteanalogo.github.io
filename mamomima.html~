@@ -31,7 +31,9 @@
 			
 <!-- Logo -->
 				<div id="logo">
+				<header>
 					<h1><a href="#">Mamotreto</a></h1>
+				</header>				
 				</div>
 <!-- /Logo -->	
 			
@@ -54,7 +56,7 @@
 			
 <!-- Main -->
 <div id="main">
-	<div class="container2">
+	<div class="container">
 		<div class="row">
 
 <!-- Barra Lateral-->
@@ -74,7 +76,7 @@
       	</li>
 	      <li class="drop"><a href="mamofilos.html">Filosofía</a>
 	     		<ul class="submenu">
-	      		<li><a href="#geopol">Sobre la geopolítica contemporánea</a></li>
+	      		<li><a href="mamofilos.html">Sobre la geopolítica contemporánea</a></li>
       		</ul>
       	</li>    
 	   	<li class="drop"><a href="#">Mi Magia</a>
@@ -82,7 +84,7 @@
 	      		<li><a href="mamomima.html">Memorias de una piloto de naves espaciales</a></li>
       		</ul>
 	   	</li>
-	  		<li class="drop"><a href="#">Cosas Curadas</a>
+	  		<li class="drop"><a href="mamococu.html">Cosas Curadas</a>
 	   	</li>
 	   	<li class="drop"><a href="mamoglos.html">Glosario</a>
 	   	</li>
@@ -130,6 +132,8 @@ Recuerdo otra buena pelea, en 6E-578. Un día alguien reportó movimiento de una
 
 <p>Creo que estas experiencias despertaron en mí el deseo de participar en las más grandes batallas, en las guerras de verdad en donde la victoria y la derrota tienen consecuencias que resienten todxs lxs habitantes de la galaxia, guerras que modifican los mapas.<br>
 Fue así que tras un año de vivir en Syndicate tomé la oportunidad de unirme a las <i>Boinas Rojas</i>, parte de la <i>Goonswarm Federation</i> que se encontraba justamente desplegándose para apoyar a su aliada <i>Red Alliance</i> en la que sería conocida como la "Guerra de Halloween" por alguna razón.</p>
+
+<img src="images/mamomima/Prophecy.png" alt="Prophecy" class="center">
 
 <p>Continuará...</p> 
 

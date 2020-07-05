@@ -74,11 +74,9 @@
       	</li>
 	      <li class="drop"><a href="mamofilos.html">Filosofía</a>
 	     		<ul class="submenu">
-	      		<li><a href="#geopol">Sobre la geopolítica contemporánea</a></li>
+	      		<li><a href="mamofilos.html">Sobre la geopolítica contemporánea</a></li>
       		</ul>
       	</li>    
-	   	<li class="drop"><a href="#">Magia</a>
-	   	</li>
 	   	<li class="drop"><a href="#">Mi Magia</a>
 	   		<ul class="submenu">
 	      		<li><a href="mamomima.html">Memorias de una piloto de naves espaciales</a></li>
