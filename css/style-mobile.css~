@@ -55,7 +55,7 @@ img.resize
     width: 400px;
     height: auto;
     display: inline-block;
-	 margin-left: auto%;
+	 margin-left: auto;
 	 margin-right: auto;
 	 padding-bottom: 2em;
  }
@@ -65,3 +65,144 @@ img.resize
 		{
 		padding: 0em 2em 0em 2em;
 		}
+
+.mobile-container
+		
+{
+  max-width: 480px;
+  margin: auto;
+  background-color: #555;
+  height: 500px;
+  color: white;
+  border-radius: 10px;
+}
+
+@media only screen and (max-width: 600px)
+
+{
+
+#nab
+
+{
+  overflow: hidden;
+  background-color: #333;
+  position: absolute;
+  float: none;
+  width: 80%;
+}
+
+#nab-fixed
+
+{
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+}
+
+#nab #submenu {
+  display: none;
+}
+
+#nab a {
+  color: white;
+  padding: 1px 1px;
+  text-decoration: none;
+  font-size: 8px;
+  display: inline-block;
+} 
+
+#nab ul.dropdown
+
+{ 
+  position: relative; 
+  width: 100%; 
+}
+
+#nab ul.dropdown li
+
+{ 
+  font-weight: bold; 
+  float: left; 
+  width: 5em; 
+  position: relative;
+  background: #2f3030;
+}
+
+#nab ul.dropdown a:hover
+
+{ 
+  color: #2f3030; 
+}
+
+#nab ul.dropdown li a 
+
+{ 
+  display: block; 
+  padding: 0em;
+  color: #F9F7EC; 
+  position: relative; 
+  z-index: 2000; 
+  text-align: center;
+  text-decoration: none;
+  font-weight: 300;
+}
+
+#nab ul.dropdown li a:hover,ul.dropdown li a.hover
+
+{ 
+  background: #ff0000;
+  position: relative;
+  color: #fff;
+}
+
+#nab ul.dropdown ul{ 
+ display: none;
+ position: absolute; 
+  top: 0; 
+  left: 0; 
+  width: 180px; 
+  z-index: 1000;
+}
+
+#nab ul.dropdown ul li { 
+  font-weight: normal; 
+  background: #2f3030;
+  color: #2f3030; 
+  border-bottom: 1px solid #ccc; 
+}
+
+#nab ul.dropdown ul li a{ 
+  display: block; 
+  color: #F9F7EC !important;
+  background: #2f3030 !important;
+} 
+
+#nab ul.dropdown ul li a:hover{
+  display: block; 
+  background: #ff0000 !important;
+  color: #fff !important;
+} 
+
+#nab .drop > a{
+  position: relative;
+}
+
+#nab .drop > a:after{
+  content: normal;
+  position: absolute;
+  right: 10px;
+  top: 40%;
+  border-left: 5px solid transparent;
+  border-top: 5px solid #333;
+  border-right: 5px solid transparent;
+  z-index: 999;
+}
+
+#nab .drop > a:hover:after{
+  content: normal;
+   border-left: 5px solid transparent;
+  border-top: 5px solid #fff;
+  border-right: 5px solid transparent;
+}
+
+}

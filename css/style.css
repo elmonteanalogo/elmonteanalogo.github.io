@@ -385,44 +385,6 @@ header span
 		display: none;
 			}
 
-/* Sidebar 
-
-#sidebar
-
-{}
-
-.sidebar
-
-		{
-		width: 25%;
-		height: 80%;
-		display: block;
-   	float: left;
-   	padding: 1em 1em 1em 1em;
-   	z-index: 0;
-   	position: fixed;
-   	text-align: center;
-		}
-
-    .sidebar a 
-      {
-        padding: 4px 4px 4px 0px;
-        text-decoration: none;
-        font-size: 16px;
-        color: #818181;
-        display: block;
-        text-align: left;
-      }
-  
-    .sidebar a:hover
-		{
-        color: #FF0000;
-		}
-      
-	.sidebar header h2
-		{
-		font-size: 2em;
-		}/*/
 
 /* Main */
 
