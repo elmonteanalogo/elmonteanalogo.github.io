@@ -67,7 +67,7 @@
 	      		<li><a href="mamotreto.html#estructura">Sobre la estructura del Mamotreto</a></li>
      			</ul>
      		</li>
-        c
+         <li class="drop"><a href="mamohist.html">Historia</a>
       	</li>
 	      <li class="drop"><a href="mamofilos.html">Filosofía</a>
 	     		<ul class="submenu">
