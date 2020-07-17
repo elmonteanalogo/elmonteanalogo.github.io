@@ -9,18 +9,11 @@
 		<meta name="robots" content="index, follow" />
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
-<<<<<<< HEAD
       <script src="js/jquery.min.js"></script>
       <script src="js/skel.min.js"></script>
       <script src="js/init.js"></script>
       <script src="js/skel-panels.min.js"></script>
 		<script src="js/uhhh.js"></script>
-=======
-      <script src="js/jquery.min.js"></script>
-		<script src="js/skel.min.js"></script>
-		<script src="js/skel-panels.min.js"></script>
-		<script src="js/init.js"></script>
->>>>>>> master
 		<noscript>
 			<link rel="stylesheet" href="css/skel-noscript.css">
 			<link rel="stylesheet" href="css/style.css">
@@ -115,7 +108,7 @@
                     <p> <ul class="faico">
  <!--      <li><a href="#" class="fa fa-facebook"></a></li>
         <li><a href="#" class="fa fa-instagram"></a></li> -->
-        <li><a href="#" class="fa fa-twitter"></a></li>
+        <li><a href="https://twitter.com/mont_analogue" class="fa fa-twitter"></a></li>
  <!--      <li><a href="#" class="fa fa-youtube"></a></li>
         <li><a href="#" class="fa fa-vimeo"></a></li> -->
         <li><a href="#" class="fa fa-vk"></a></li>
