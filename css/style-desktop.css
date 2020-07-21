@@ -18,7 +18,7 @@ body,input,textarea,select
 
 		{
 		font-family: "Noto Sans", sans-serif;
-		font-size: 18px;
+		font-size: 20px;
 		line-height: 2em;
 		}
 
@@ -52,7 +52,7 @@ a
 
 		{
 		text-decoration: underline;
-		color: #ff0000;
+		color: #4900B0;
 		}
 	
 a:hover
@@ -164,7 +164,14 @@ img.center
 {
 		background: #000000;
 		color: white;
-}	 
+}
+
+.fa-artstation
+
+{
+		background: #000000;
+		color: white;
+}
 	
 /* Buttons */
 		
@@ -527,7 +534,7 @@ ul.dropdown li a:hover,
 ul.dropdown li a.hover
 
 { 
-  background: #ff0000;
+  background: #4900B0;
   position: relative;
   color: #fff;
 }
@@ -557,7 +564,7 @@ ul.dropdown ul li a{
 
 ul.dropdown ul li a:hover{
   display: block; 
-  background: #ff0000 !important;
+  background: #4900B0 !important;
   color: #fff !important;
 } 
 
@@ -670,6 +677,13 @@ ul.dropdown ul li a:hover{
 		background: #000000;
 		z-index: 3;
 	}
+	
+#copyleft p
+
+{
+text-align: center;
+color: rgba(255,255,255,.4);
+}
 
 #copyleft .container
 	

@@ -33,7 +33,11 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a
 		color: inherit;
 		}
 		
+.center 
 
+{
+ text-align: center
+}
 
 strong, b
 	
@@ -53,7 +57,7 @@ a
 
 		{
 		text-decoration: underline;
-		color: #ff0000;
+		color: #4900B0;
 		}
 	
 a:hover
@@ -85,6 +89,7 @@ ul.faico li
 		padding-top: 20px;
 		}
 
+
 img
 
 {}
@@ -111,25 +116,25 @@ img.resize
 
 /* Favicons */
 	
-.fa 
+.fab 
 
 		{
 		padding: 15px;
-		font-size: 40px;
-  		width: 50px;
+		font-size: 2em;
+  		width: 2em;
   		text-align: center;;
   		text-decoration: none;
  		margin: 2px 2px;
 		border-radius: 25px;
 		}
 
-.fa:hover 
+.fab:hover 
 
 {
     	opacity: 0.7;
 }
 
-.fa-facebook 
+.fa-facebook-f
 
 {
 		background: #000000;
@@ -177,6 +182,13 @@ img.resize
 		background: #000000;
 		color: white;
 }	 
+
+.fa-artstation
+
+{
+		background: #000000;
+		color: white;
+}
 	
 /* Buttons */
 		
@@ -385,44 +397,6 @@ header span
 		display: none;
 			}
 
-/* Sidebar 
-
-#sidebar
-
-{}
-
-.sidebar
-
-		{
-		width: 25%;
-		height: 80%;
-		display: block;
-   	float: left;
-   	padding: 1em 1em 1em 1em;
-   	z-index: 0;
-   	position: fixed;
-   	text-align: center;
-		}
-
-    .sidebar a 
-      {
-        padding: 4px 4px 4px 0px;
-        text-decoration: none;
-        font-size: 16px;
-        color: #818181;
-        display: block;
-        text-align: left;
-      }
-  
-    .sidebar a:hover
-		{
-        color: #FF0000;
-		}
-      
-	.sidebar header h2
-		{
-		font-size: 2em;
-		}/*/
 
 /* Main */
 
@@ -538,7 +512,7 @@ ul.dropdown li a:hover,
 ul.dropdown li a.hover
 
 { 
-  background: #ff0000;
+  background: #4900B0;
   position: relative;
   color: #fff;
 }
@@ -568,7 +542,7 @@ ul.dropdown ul li a{
 
 ul.dropdown ul li a:hover{
   display: block; 
-  background: #ff0000 !important;
+  background: #4900B0 !important;
   color: #fff !important;
 } 
 
@@ -661,12 +635,7 @@ ul.dropdown ul li a:hover{
 		font-size: 1.7em;
 	}
 	
-#footer p
 
-	{
-		text-align: justify;
-	}
-	
 /* Copyleft */
 	
 #copyleft
@@ -681,6 +650,8 @@ ul.dropdown ul li a:hover{
 		background: #000000;
 		z-index: 3;
 	}
+	
+	
 
 #copyleft .container
 	
