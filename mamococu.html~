@@ -159,7 +159,7 @@ Firefox es un navegador accesible y utilizable recién instalado (de todos modos
 <header>
 <h2><a href="https://telegram.org/">Telegram</a></h2>
 </header>
-<p>Es un excelente programa de mensajería. A mi juicio es el mejor de entre las opciones actualmente disponibles, que no son muchas. Si tomamos como criterio fundamental el que sea <i>software</i> libre, solo hay algunas otras alternativas como Wire, Signal y Riot. Pero el problema con este tipo de <i>software</i> es que sólo podemos usarlo con otras personas que decidan usarlo y la gran mayoría de las personas ya utilizan plataformas privativas como Messenger y Whatsapp, ambas de Facebook. Estas son, por supuesto, <a href="https://www.dailymail.co.uk/news/article-3244433/Facebook-spying-people-world-just-like-America-s-NSA-says-data-protection-watchdog-court-hearing-Belgium-company-accused-violating-privacy-laws.html">herramientas</a> de <a href="https://www.theweek.in/news/sci-tech/2019/10/31/whatsapp-snooping-nso-pegasus-realm-digital-spying.html">espionaje</a> al servicio del <a href="https://es.wikipedia.org/wiki/PRISM">imperialismo</a> pero es básicamente imposible no usarlas dada la penetración que han logrado en las sociedades "occidentales" y bajo la influencia "occidental". Es muy difícil cambiar esto a pesar de que la elección entre usar Whatsapp o usar otra cosa, como Telegram, no implica mayor esfuerzo que picar un ícono diferente.<br>
+<p>Es un excelente programa de mensajería. A mi juicio es el mejor de entre las opciones actualmente disponibles, que no son muchas. Si tomamos como criterio fundamental el que sea <i>software</i> libre, solo hay algunas otras alternativas como Wire, Signal y Riot. Pero el problema con este tipo de <i>software</i> es que sólo podemos usarlo con otras personas que decidan usarlo y la gran mayoría de las personas ya utilizan plataformas privativas como Messenger y Whatsapp, ambas de Facebook. Estas son, por supuesto, <a href="https://www.dailymail.co.uk/news/article-3244433/Facebook-spying-people-world-just-like-America-s-NSA-says-data-protection-watchdog-court-hearing-Belgium-company-accused-violating-privacy-laws.html">herramientas</a> de <a href="https://es.wikipedia.org/wiki/ECHELON">espionaje</a> al <a href="https://www.theweek.in/news/sci-tech/2019/10/31/whatsapp-snooping-nso-pegasus-realm-digital-spying.html">servicio</a> del <a href="https://es.wikipedia.org/wiki/PRISM">imperialismo</a> pero es básicamente imposible no usarlas dada la penetración que han logrado en las sociedades "occidentales" y bajo la influencia "occidental". Es muy difícil cambiar esto a pesar de que la elección entre usar Whatsapp o usar otra cosa, como Telegram, no implica mayor esfuerzo que picar un ícono diferente.<br>
 Telegram es la opción más sólida, fué creada por ingenieros rusos con la privacidad y la seguridad como ejes vectores y cuando entraron en conflicto con las leyes rusas en materia de ciberseguridad respondieron moviéndose a Dubai y reforzando sus sistemas de encriptado (actualmente Telegram ya está desbloqueada en Rusia, después de varios juicios). Cambiar de Telegram en el celular a Telegram en una computadora de escritorio es muy fluido, los archivos que compartes con tus contactos pueden pesar hasta 1.5 gigas y permanecen en una nube encriptada, las llamadas de voz funcionan perfectamente, todo es altamente personalizable y hay bonitos <i>stickers</i>. Es mejor que Whatsapp en todo sentido posible (incluyendo el estético, por mucho) y no existe con el propósito de espiarte, manipularte y vender información de tus hábitos a empresas de publicidad. En resumen, todxs deberíamos usar Telegram.</p>
 
 <header>
@@ -175,7 +175,7 @@ Telegram es la opción más sólida, fué creada por ingenieros rusos con la pri
 <header>
 <h2><a href="https://www.wps.com/">WPS Office</a></h2>
 </header>
-<p>Es un conjunto de programas de oficina y es software privativo, desarrollado en China por la empresa Kingsoft. Muy similar a Microsoft Office con la diferencia de que no es del <a href="https://medium.com/@wtfmitchel/the-monopoly-formerly-known-as-microsoft-cb81c1163b1a">monopolio</a> Microsoft y es, simplemente por eso, mejor. No recomiendo usarlo para escribir, sino para preparar la presentación final de un documento que se va a imprimir o exportar en formato .pdf o para lidiar con archivos en formatos propios de Microsoft como .docx y .xlsx. También está disponible para celular.</p>
+<p>Es un conjunto de programas de oficina y es <i>software</i> privativo, desarrollado en China por la empresa Kingsoft. Muy similar a Microsoft Office con la diferencia de que no es del <a href="https://medium.com/@wtfmitchel/the-monopoly-formerly-known-as-microsoft-cb81c1163b1a">monopolio</a> Microsoft y es, simplemente por eso, mejor. No recomiendo usarlo para escribir, sino para preparar la presentación final de un documento que se va a imprimir o exportar en formato .pdf o para lidiar con archivos en formatos propios de Microsoft como .docx y .xlsx. También está disponible para celular.</p>
 
 <header>
 <h2><a href="https://tixati.com/">Tixati</a></h2>
@@ -200,7 +200,7 @@ Este tipo de programa es particularmente útil en celular, pero no hay Liferea p
 <p>Independientemente de la distribución que hayas elegido, vale la pena aprender a usar tu Terminal. No es indispensable, realmente los únicos comandos que utilizarás de manera cotidiana serán "sudo apt update" y "sudo apt upgrade" (o sus equivalentes, dependiendo de tu distribución) para actualizar las listas de <i>software</i> disponible y para actualizar el <i>software</i> instalado al más reciente disponible. Pero la Terminal es una herramienta muy poderosa que te permite hacer casi cualquier cosa en tu sistema y vale la pena aprender a hacer lo básico con ella. <a href="https://linoxide.com/linux-command/linux-commands-cheat-sheet/">Aquí</a> tienes una lista de los principales comandos que puedes usar. Recuerda que si no sabes para que sirve algo puedes pedir ayuda con "help", por ejemplo escribiendo "apt help" para ver una explicación de como usar apt.</p>
 
 <header>
-<h4 id="servsoftware">Servicios de Software</h4>
+<h4 id="servsoftware">Servicios de <i>Software</i></h4>
 </header>
 
 <header>
@@ -271,7 +271,7 @@ Osmand es una aplicación libre para celular que usa los datos de OpenStreetMap.
         <li><a href="https://twitter.com/mont_analogue" class="fa fa-twitter"></a></li>
  <!--      <li><a href="#" class="fa fa-youtube"></a></li>
         <li><a href="#" class="fa fa-vimeo"></a></li> -->
-        <li><a href="#" class="fa fa-vk"></a></li>
+        <li><a href="https://vk.com/elmonteanalogo" class="fa fa-vk"></a></li>
  <!--       <li><a href="#" class="fa fa-rss"></a></li> -->
    </ul></p> </div> </div>
 						</section>

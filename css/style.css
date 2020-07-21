@@ -461,6 +461,7 @@ header span
 		{
 		width: 100%;
 		top: 0em;
+		font-size: 1em;
 		}
 
 .nab-fixed
@@ -491,7 +492,7 @@ ul.dropdown li
 { 
   font-weight: bold; 
   float: left; 
-  width: 1em; 
+  width: 200px; 
   position: relative;
   background: #2f3030;
 }
