@@ -34,6 +34,14 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a
 		color: inherit;
 		}
 
+.center 
+
+{
+ text-align: center
+}
+
+blockquote {  padding: 0 50px;  margin-left: 0;  border-left: 7px solid gold; } 
+
 strong, b
 	
 		{

@@ -492,7 +492,7 @@ ul.dropdown li
 { 
   font-weight: bold; 
   float: left; 
-  width: 1300px; 
+  width: 200px; 
   position: relative;
   background: #2f3030;
 }
