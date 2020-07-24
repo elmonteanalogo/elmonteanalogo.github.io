@@ -60,8 +60,16 @@
 						<div id="content" class="12u skel-cell-important">
 							<section id="content">
 							
-							<p class="center" style="font-size: 1.3em"><a href="actualidad.html#1">1</a> <a href="actualidad.html#2">2</a> <a href="actualidad.html#3">3</a> <a href="actualidad.html#4">4</a> <a href="actualidad.html#5">5</a> <a href="actualidad.html#6">6</a> <a href="actualidad.html#7">7</a></p>
-							
+							<p class="center" style="font-size: 1.3em">
+							<a href="actualidad.html#7">7</a>
+							<a href="actualidad.html#6">6</a> 
+							<a href="actualidad.html#5">5</a>
+							<a href="actualidad.html#4">4</a> 
+							<a href="actualidad.html#3">3</a>
+							<a href="actualidad.html#2">2</a> 
+							<a href="actualidad.html#1">1</a> 
+							</p>						
+								
 								<header>
 								<h2 id="7">
 								Columna 7. ¿<i>Global Reset</i> o <i>Global Collapse</i>?
