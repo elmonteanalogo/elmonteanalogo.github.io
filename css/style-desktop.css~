@@ -40,7 +40,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a
  text-align: center
 }
 
-blockquote {  padding: 0 50px;  margin-left: 0;  border-left: 7px solid red; } 
+blockquote {  padding: 0 50px;  margin-left: 0;  border-left: 7px solid gold; } 
 
 strong, b
 	
@@ -107,7 +107,7 @@ img.center
 
 /* Favicons */
 	
-.fa 
+.fa
 
 		{
 		padding: 15px;
@@ -119,6 +119,18 @@ img.center
 		border-radius: 25px;
 		}
 
+.fa
+
+		{
+		padding: 15px;
+		font-size: 2em;
+  		width: 2em;
+  		text-align: center;;
+  		text-decoration: none;
+ 		margin: 2px 2px;
+		border-radius: 25px;
+		}		
+		
 .fa:hover 
 
 {
@@ -598,7 +610,21 @@ ul.dropdown ul li a:hover{
   border-right: 5px solid transparent;
 }
 
+/*.videoWrapper {
+  position: relative;
+  overflow: hidden;
+  padding-top: 56.25%;
+}
 
+.videos {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+    z-index: 0;
+}/*/
 
 
 

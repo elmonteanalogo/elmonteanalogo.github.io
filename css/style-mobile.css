@@ -205,4 +205,14 @@ img.resize
   border-right: 5px solid transparent;
 }
 
+.videoWrapper {
+display: grid;
+  overflow: hidden;
+  padding: 0em;
+  margin-left: -6em;
+  margin-right: -10em;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr;
+}
+
 }

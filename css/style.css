@@ -129,6 +129,18 @@ img.resize
  		margin: 2px 2px;
 		border-radius: 25px;
 		}
+		
+.fa
+
+		{
+		padding: 15px;
+		font-size: 2em;
+  		width: 2em;
+  		text-align: center;;
+  		text-decoration: none;
+ 		margin: 2px 2px;
+		border-radius: 25px;
+		}
 
 .fab:hover 
 
@@ -578,10 +590,15 @@ ul.dropdown ul li a:hover{
   border-right: 5px solid transparent;
 }
 
-
-
-
-
+.videoWrapper {
+display: grid;
+  overflow: hidden;
+  padding: 0em;
+  margin-left: -6em;
+  margin-right: -10em;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+}
 			
 /* Create two unequal columns that floats next to each other 
  Left column 

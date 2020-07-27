@@ -34,8 +34,10 @@
 				<div id="logo">
 					<h1><a href="#">Actualidad</a></h1>
 				</div>
+<!-- /Logo -->
 				
 <!-- Navegación -->	
+
 				<nav id="nav">
 					<ul>
 						<li class="active"><a href="index.html">Inicio</a></li>
@@ -45,7 +47,9 @@
 					  <li><a href="https://www.artstation.com/lemontanalogue" target="_blank">Galería</a></li>
 					</ul>
 				</nav>
+				
 <!-- /Navegación -->	
+
 	</div>
 </div>
 		
@@ -230,8 +234,10 @@ En cambio si medimos el ritmo del cambio sobre nuevos casos y muertes por día, 
 						</div>
 
 <!-- /Content -->		
+
 		</div>
-	<!-- /Main -->
+		
+<!-- /Main -->
 
 
 <!-- Footer -->
@@ -241,6 +247,7 @@ En cambio si medimos el ritmo del cambio sobre nuevos casos y muertes por día, 
 				<div class="row">
 				
 <!-- Foto -->							
+
 					<div class="5u">
 						<section>
 							<ul class="style1">
@@ -250,6 +257,7 @@ En cambio si medimos el ritmo del cambio sobre nuevos casos y muertes por día, 
 						</section>
 					</div>
 <!-- /Foto -->							
+
 <!-- Acerca de -->				
 					<div class="6u">
 						<section>
@@ -259,15 +267,19 @@ En cambio si medimos el ritmo del cambio sobre nuevos casos y muertes por día, 
 							<p>Un ser humano en el camino a la Liberación, en búsqueda de la Verdad, ocupado en el Gran Trabajo, etcétera. Pero también un sujeto político inmerso en el proceso histórico, escritor de palabras y artífice de imagenes. Según unos papeles ridículos soy un filósofo. Busco a lxs otrxs para ponernos a hacer las cosas que hacen quienes ya lxs encontraron como formar un "colectivo de arte" o una célula revolucionaria.</p>
 				      <div id="favicons"> <!-- meti esta tabla para que lo iconos estuvieran horizontales -->
                   <div class="table">		  
-                    <p> <ul class="faico">
- <!--      <li><a href="#" class="fa fa-facebook"></a></li>
-        <li><a href="#" class="fa fa-instagram"></a></li> -->
-        <li><a href="https://twitter.com/mont_analogue" class="fa fa-twitter"></a></li>
+                    <p> 
+                    <ul class="faico">
+        <li><a href="https://twitter.com/mont_analogue" class="fab fa-twitter"></a></li>
  <!--      <li><a href="#" class="fa fa-youtube"></a></li>
         <li><a href="#" class="fa fa-vimeo"></a></li> -->
-        <li><a href="https://vk.com/elmonteanalogo" class="fa fa-vk"></a></li>
- <!--       <li><a href="#" class="fa fa-rss"></a></li> -->
-   </ul></p> </div> </div>
+        <li><a href="https://vk.com/elmonteanalogo" class="fab fa-vk"></a></li>
+        <li><a href="#" class="fab fa-instagram"></a></li>
+        <li><a href="https://medium.com/@elmonteanalogo" class="fab fa-medium"></a></li>
+        <li><a href="https://www.facebook.com/elmonteanalogo" class="fab fa-facebook-f"></a></li>
+ <!--         <li><a href="" class="fab fa-artstation"></a></li> -->
+		  <li><a href="https://feed43.com/3433785601554233.xml" class="fa fa-rss"></a></li>
+   					</ul>
+   					</p> </div> </div>
 						</section>
 					</div>
 				</div>
@@ -289,5 +301,8 @@ Copyleft: Este portal está disponible bajo la licencia Creative Commons Atribuc
 <!-- This website was built based on the template "Monochromed" by TEMPLATED. templated.co | @templatedco
      Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 -->
+
+<!-- /Licencias -->
+
 	</body>
 </html>
