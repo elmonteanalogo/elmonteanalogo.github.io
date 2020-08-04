@@ -610,11 +610,17 @@ ul.dropdown ul li a:hover{
   border-right: 5px solid transparent;
 }
 
-/*.videoWrapper {
-  position: relative;
+.videoWrapper {
+display: grid;
   overflow: hidden;
-  padding-top: 56.25%;
+  padding: 0em;
+  margin-left: -6em;
+  margin-right: -10em;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
 }
+
+/*
 
 .videos {
   position: absolute;
@@ -627,22 +633,23 @@ ul.dropdown ul li a:hover{
 }/*/
 
 
-
-			
-/* Create two unequal columns that floats next to each other 
- Left column 
-.leftcolumn {   
+.columna1 
+{   
   float: left;
-  width: 75%;
+  width: 70%;
+  padding-left: 6em;
+  text-align: justify;
+  font-size: 1em;
 }
-
- Right column 
-.rightcolumn {
-  float: left;
-  width: 25%;
-  background-color: #f1f1f1;
-  padding-left: 20px; }/*
-
+ 
+.columna2 
+{
+  float: right;
+  width: 30%;
+  padding-left: 5em;
+  position: relative;
+  z-index: inherit; 
+}
 
 /* Add a card effect for articles */
 .card {
