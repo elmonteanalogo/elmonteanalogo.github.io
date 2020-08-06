@@ -72,7 +72,8 @@
       	</li>
 	      <li class="drop"><a href="mamofilos.html">Filosofía</a>
 	     		<ul class="submenu">
-	      		<li><a href="mamofilos.html">Sobre la geopolítica contemporánea</a></li>
+	     			<li><a href="mamofilos.html#monismo">Monismo</a></li>
+	      		<li><a href="mamofilos.html#geopol">Sobre la geopolítica contemporánea</a></li>
       		</ul>
       	</li>    
 	   	<li class="drop"><a href="#">Mi Magia</a>
