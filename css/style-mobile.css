@@ -49,13 +49,22 @@ header h2
 		padding-left: 0.5em;
 		}
 		
+img.center
+
+		{
+		width: 100%;
+		display: inline-block;
+		max-width: 100%; 
+		height: auto;
+		}
+		
 img.resize
 
  {
-    width: 400px;
+    width: 200px;
     height: auto;
     display: inline-block;
-	 margin-left: auto;
+	 margin-left: 35%;
 	 margin-right: auto;
 	 padding-bottom: 2em;
  }

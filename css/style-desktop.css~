@@ -109,7 +109,7 @@ img.center
 img.resize
 
  {
-    width: 40px;
+    width: 40%;
     height: auto;
     display: inline-block;
 	 margin-left: 35%;
