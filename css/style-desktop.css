@@ -96,6 +96,7 @@ img
 
 {}
 
+
 img.center
 
 		{
@@ -104,6 +105,17 @@ img.center
 		max-width: 100%; 
 		height: auto;
 		}
+		
+img.resize
+
+ {
+    width: 400px;
+    height: auto;
+    display: inline-block;
+	 margin-left: 35%;
+	 margin-right: auto;
+	 padding-bottom: 2em;
+ }
 
 /* Favicons */
 	
