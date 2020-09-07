@@ -2,11 +2,11 @@
 
 @viewport
 
-{	 
+{
 		zoom: 1.0;
 		width: extend-to-zoom;
 }
-body 
+body
 
 		{
 		font-family: "Noto Sans", sans-serif;
@@ -34,21 +34,21 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a
 		color: inherit;
 		}
 
-.center 
+.center
 
 {
  text-align: center
 }
 
-blockquote {  padding: 0 50px;  margin-left: 0;  border-left: 7px solid gold; } 
+blockquote {  padding: 0 50px;  margin-left: 0;  border-left: 7px solid gold; }
 
 strong, b
-	
+
 		{
 		font-weight: bold;
 		color: #000000;
 		}
-	
+
 em, i
 
 		{
@@ -62,7 +62,7 @@ a
 		text-decoration: underline;
 		color: #4900B0;
 		}
-	
+
 a:hover
 
 		{
@@ -102,10 +102,10 @@ img.center
 		{
 		width: 100%;
 		display: inline-block;
-		max-width: 100%; 
+		max-width: 100%;
 		height: auto;
 		}
-		
+
 img.resize
 
  {
@@ -118,7 +118,7 @@ img.resize
  }
 
 /* Favicons */
-	
+
 .fa
 
 		{
@@ -141,57 +141,57 @@ img.resize
   		text-decoration: none;
  		margin: 2px 2px;
 		border-radius: 25px;
-		}		
-		
-.fa:hover 
+		}
+
+.fa:hover
 
 {
     	opacity: 0.7;
 }
 
-.fa-facebook 
+.fa-facebook
 
 {
 		background: #000000;
 		color: white;
 }
 
-.fa-twitter 
+.fa-twitter
 
 {
 		background: #000000;
 		color: white;
 }
 
-.fa-youtube 
+.fa-youtube
 
 {
 		background: #000000;
 		color: white;
 }
 
-.fa-instagram 
+.fa-instagram
 
 {
 		background: #000000;
 		color: white;
 }
 
-.fa-rss 
+.fa-rss
 
 {
 		background: #000000;
 		color: white;
-}	 
+}
 
-.fa-vimeo 
+.fa-vimeo
 
 {
 		background: #000000;
 		color: white;
-}	 
+}
 
-.fa-vk 
+.fa-vk
 
 {
 		background: #000000;
@@ -204,9 +204,9 @@ img.resize
 		background: #000000;
 		color: white;
 }
-	
+
 /* Buttons */
-		
+
 .button
 
 {
@@ -254,45 +254,47 @@ img.resize
 
 {
 }
-		
+
 header
 
 {
 		margin-bottom: 2em;
 }
-	
+
 header h1
 
 {
 		font-size: 3em;
 		padding-bottom: 0.3em;
-		padding-top: 0.3em;
+		padding-top: 0.6em;
 		text-align: center
 }
-	
+
 header h2
 
 {
-		font-size: 2em;
+		font-size: 1.5em;
 		padding-bottom: 0.3em;
-		padding-top: 0.6em;
+		padding-top: 0.3em;
 		text-align: left;
 }
-		
+
 header h3
 
 {
 		font-size: 1.5em;
-		text-align: left;
+		padding-bottom: 0.3em;
+		padding-top: 0.3em;
+		text-align: center;
 }
 
 header h4
 
 {
-		font-size: 2.5em;
+		font-size: 2em;
 		padding-bottom: 0.3em;
-		padding-top: 0.3em;
-		text-align: left;
+		padding-top: 0.6em;
+		text-align: center;
 }
 
 header .byline
@@ -312,21 +314,21 @@ header span
 /* Logo*/
 
 #logo
-	
+
 {
 		margin-bottom: 1em;
 		z-index: 3;
 }
-	
+
 #logo h1
-		
+
 {
 		color: #FFF;
 		padding-bottom: 1em;
 }
-	
+
 #logo h1 a
-		
+
 {
 		display: block;
 		letter-spacing: 1px;
@@ -338,7 +340,7 @@ header span
 }
 
 #logo span
-		
+
 {
 		display: block;
 		padding-top: 1em;
@@ -346,7 +348,7 @@ header span
 		text-transform: none;
 		font-size: 1.2em;
 		color: #F3F2F3;
-}			
+}
 
 
 /* Navegacion */
@@ -355,7 +357,7 @@ header span
 
 {
 }
-	
+
 #nav ul
 
 		{
@@ -371,7 +373,7 @@ header span
 		{
 			display: inline-block;
 		}
-		
+
 #nav > ul > li:last-child
 
 			{
@@ -412,7 +414,7 @@ header span
 		display: none;
 			}
 
-/* Sidebar 
+/* Sidebar
 
 #sidebar
 
@@ -431,7 +433,7 @@ header span
    	text-align: center;
 		}
 
-    .sidebar a 
+    .sidebar a
       {
         padding: 4px 4px 4px 0px;
         text-decoration: none;
@@ -440,12 +442,12 @@ header span
         display: block;
         text-align: left;
       }
-  
+
     .sidebar a:hover
 		{
         color: #FF0000;
 		}
-      
+
 	.sidebar header h2
 		{
 		font-size: 2em;
@@ -458,18 +460,18 @@ header span
 	   {
 		position: relative;
 		background: #fff url(../images/overlay.png) repeat;
-		padding: 3em 10em 2em 1em;	
+		padding: 3em 10em 2em 1em;
 		z-index: 1;
 		}
-		
+
 #content
- 
+
 		 {
 		text-align: justify;
 		width: 100%;
 		padding: 2em 1em 1em 5em;
 		}
-	
+
 .content
 
 		{
@@ -478,24 +480,24 @@ header span
 		position: relative;
 	   z-index: inherit;
 		}
-		
+
 .content header h1
-	
+
 		{
 		letter-spacing: -1px;
 		font-size: 2em;
 		}
 
 .content header h2
-	
+
 		{
 		letter-spacing: -1px;
 		font-size: 2em;
 		text-align: center;
 		}
-	
+
 .content header h3
-		
+
 		{
 		letter-spacing: -1px;
 		font-size: 3em;
@@ -528,35 +530,35 @@ header span
 
 ul.dropdown
 
-{ 
-  position: relative; 
-  width: 100%; 
+{
+  position: relative;
+  width: 100%;
 }
 
 ul.dropdown li
 
-{ 
-  font-weight: bold; 
-  float: left; 
-  width: 200px; 
+{
+  font-weight: bold;
+  float: left;
+  width: 300px;
   position: relative;
   background: #2f3030;
 }
 
 ul.dropdown a:hover
 
-{ 
-  color: #2f3030; 
+{
+  color: #2f3030;
 }
 
-ul.dropdown li a 
+ul.dropdown li a
 
-{ 
-  display: block; 
+{
+  display: block;
   padding: 0.3em;
-  color: #F9F7EC; 
-  position: relative; 
-  z-index: 2000; 
+  color: #F9F7EC;
+  position: relative;
+  z-index: 2000;
   text-align: center;
   text-decoration: none;
   font-weight: 300;
@@ -565,40 +567,40 @@ ul.dropdown li a
 ul.dropdown li a:hover,
 ul.dropdown li a.hover
 
-{ 
+{
   background: #4900B0;
   position: relative;
   color: #fff;
 }
 
 
-ul.dropdown ul{ 
+ul.dropdown ul{
  display: none;
- position: absolute; 
-  top: 0; 
-  left: 0; 
-  width: 180px; 
+ position: absolute;
+  top: 0;
+  left: 0;
+  width: 180px;
   z-index: 1000;
 }
 
-ul.dropdown ul li { 
-  font-weight: normal; 
+ul.dropdown ul li {
+  font-weight: normal;
   background: #2f3030;
-  color: #2f3030; 
-  border-bottom: 1px solid #ccc; 
+  color: #2f3030;
+  border-bottom: 1px solid #ccc;
 }
 
-ul.dropdown ul li a{ 
-  display: block; 
+ul.dropdown ul li a{
+  display: block;
   color: #F9F7EC !important;
   background: #2f3030 !important;
-} 
+}
 
 ul.dropdown ul li a:hover{
-  display: block; 
+  display: block;
   background: #4900B0 !important;
   color: #fff !important;
-} 
+}
 
 .drop > a{
   position: relative;
@@ -645,22 +647,22 @@ display: grid;
 }/*/
 
 
-.columna1 
-{   
+.columna1
+{
   float: left;
   width: 70%;
   padding-left: 6em;
   text-align: justify;
   font-size: 1em;
 }
- 
-.columna2 
+
+.columna2
 {
   float: right;
   width: 30%;
   padding-left: 4em;
   position: relative;
-  z-index: inherit; 
+  z-index: inherit;
 }
 
 /* Add a card effect for articles */
@@ -697,27 +699,27 @@ display: grid;
 		{
 		font-size: 1.7em;
 		}
-		
-	
+
+
 #footer header h2
 
 		{
 		color: #FFF;
 		width: 50%;
 		margin: auto;
-		padding-top: 2.5em; 
+		padding-top: 2.5em;
 		padding-left: 1.5em;
 		font-size: 1.7em;
 		}
-	
+
 #footer p
 
 		{
 		text-align: justify;
 		}
-	
+
 /* Copyleft */
-	
+
 #copyleft
 
 	{
@@ -730,7 +732,7 @@ display: grid;
 		background: #000000;
 		z-index: 3;
 	}
-	
+
 #copyleft p
 
 {
@@ -739,6 +741,6 @@ color: rgba(255,255,255,.4);
 }
 
 #copyleft .container
-	
-	{	
+
+	{
 	}
