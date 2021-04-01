@@ -63,10 +63,6 @@
 	<nav id="nab";>
 		<ul class="dropdown">
 	   	<li class="drop"><a href="mamotreto.html">Índice</a>
-	      	<ul class="submenu">
-	      		<li><a href="mamotreto.html" > A manera de introducción</a></li>
-	      		<li><a href="mamotreto.html#estructura">Sobre la estructura del Mamotreto</a></li>
-     			</ul>
      		</li>
          <li class="drop"><a href="mamohist.html">Historia</a>
       	</li>
@@ -98,7 +94,7 @@
 	</div>
 	</div>
 <!-- Barra Lateral -->
-		
+
 
 <!-- Content -->
 
